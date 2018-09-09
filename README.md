@@ -4,7 +4,7 @@
 3. Install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 
-## Makefile targets
+## Makefile Targets
 | Command               | Description                                   |
 |:----------------------|:----------------------------------------------|
 | `make website`        | Build the website in site/                    |
