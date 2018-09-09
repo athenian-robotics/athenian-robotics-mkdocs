@@ -102,9 +102,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  #logo:
-  #  icon: "\uE80C"
   logo: 'images/owls.jpg'
+  favicon: 'assets/images/favicon.ico'
 
 google_analytics: ['UA-90285378-1', 'auto']
 
