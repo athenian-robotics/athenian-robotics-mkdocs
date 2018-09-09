@@ -4,7 +4,7 @@ site_description: Athenian FRC Robotics Documentation
 site_author: Athenian FRC Robotics Team
 
 repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
-repo_name: 'GitHub'
+repo_name: 'GitHub Home'
 
 nav:
 - Home: index.md
