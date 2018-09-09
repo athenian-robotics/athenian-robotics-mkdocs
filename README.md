@@ -5,15 +5,14 @@
 
 
 ## Makefile targets
+| Command               | Description                                   |
+|:----------------------|:----------------------------------------------|
+| `make website`        | Build the website in site/                    |
+| `make clean`          | Delete site/                                  |
+| `make server`         | Start the live-reloading docs server          |
+| `make deploy`         | Deploy content to athenian-robotics.github.io |
 
-| Command               | Description                                  |
-|:----------------------|:---------------------------------------------|
-| `make website`        | Build the website in site/                   |
-| `make clean`          | Delete site/                                 |
-| `make server`         | Start the live-reloading docs server         |
-| `make deploy`         | Deploy site to athenian-robotics.github.io   |
-
-## Additional Athenian Organizations  
+## Additional Athenian GitHub Organizations  
 * [Athenain Programming](https://github.com/athenian-programming)
 * [Athenian FLL](http://athenian-fll.org)
 
