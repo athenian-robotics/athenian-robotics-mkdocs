@@ -1,24 +1,22 @@
 # ROS Installation 
 
-Ubuntu Kinetic ROS installation instructions are [here](http://wiki.ros.org/kinetic/Installation/Ubuntu).
-
-A good tutorial is [here](http://wiki.ros.org/ROS/Tutorials).
-
-Some ROS demos are [here](https://github.com/athenian-robotics/ros-demos).
+* Ubuntu Kinetic ROS installation instructions are [here](http://wiki.ros.org/kinetic/Installation/Ubuntu).
+* A good tutorial is [here](http://wiki.ros.org/ROS/Tutorials).
+* Some ROS demos are [here](https://github.com/athenian-robotics/ros-demos).
 
 ## ROS Environment Variables
 
-The *~/.bashrc* file should contain:
+!!! note "The *~/.bashrc* file should contain"
 
-```bash
-source /opt/ros/kinetic/setup.bash
-source ~/catkin_ws/devel/setup.bash
-
-export TURTLEBOT3_MODEL=burger
-
-export ROS_HOSTNAME=machine1.local
-export ROS_MASTER_URI=http://machine2:11311
-```
+    ```bash
+    source /opt/ros/kinetic/setup.bash
+    source ~/catkin_ws/devel/setup.bash
+    
+    export TURTLEBOT3_MODEL=burger
+    
+    export ROS_HOSTNAME=machine1.local
+    export ROS_MASTER_URI=http://machine2:11311
+    ```
 
 ## ROS on Ubuntu
 
@@ -26,17 +24,18 @@ Installation instructions are [here](http://wiki.ros.org/kinetic/Installation/Ub
 
 Install *ros-kinetic-desktop* in order to get rospy_tutorials.
 
-After installing *ros-kinetic-desktop* initialize `rosdep` with:
-```bash
-sudo rosdep init
-rosdep update
-```
+!!! note "After installing *ros-kinetic-desktop* initialize `rosdep`"
 
-Install dependencies for building packages with:
+    ```bash
+    sudo rosdep init
+    rosdep update
+    ```
 
-```bash
-sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
-```
+!!! note "Install dependencies for building packages"
+
+    ```bash
+    sudo apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+    ```
 
 ## ROS on Raspi
 
@@ -46,17 +45,19 @@ Download Ubuntu MATE 16.04.2 from [here](https://ubuntu-mate.org/download/)
 
 ## ROS on Jetson TX2
 
-If `sudo rosdep init` returns an error about a website being down, fix it with:
-```bash
-sudo c_rehash /etc/ss/certs
-```
+!!! warning "If `sudo rosdep init` returns an error about a website being down"
+
+    ```bash
+    sudo c_rehash /etc/ss/certs
+    ```
  
 ## ROS on Docker
 
-Run *roscore* with:
-```bash
-docker run -it --rm  -p11311:11311  ros roscore
-```
+!!! info "Run *roscore*"
+
+    ```bash
+    docker run -it --rm  -p11311:11311  ros roscore
+    ```
 
 
 
