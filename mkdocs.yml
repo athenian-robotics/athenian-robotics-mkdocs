@@ -76,12 +76,14 @@ nav:
       - Admin: ev3-admin.md
       - Python: ev3-python.md
       - ROS: ev3-ros.md
-  - FRC: frc.md
+  - FRC:
+    - Networking: frc-networking.md
+    - Github Repo: https://github.com/athenian-robotics
   - CodinGame Tips: codingame.md
-  - Miscellaneous: miscellaneous.md
   - Education:
     - Robots: education-robots.md
     - Software: education-software.md
+  - Miscellaneous: miscellaneous.md
 
 theme:
   name: 'material'

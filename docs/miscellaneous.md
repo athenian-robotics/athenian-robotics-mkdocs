@@ -21,7 +21,7 @@
 ## Cool Projectss
 * [Traffic Counting with OpenCV](https://www.hackster.io/deligence-technologies/traffic-counting-system-based-on-opencv-and-python-294059?utm_source=Hackster.io+newsletter&utm_campaign=a8f5b3b101-EMAIL_CAMPAIGN_2017_07_26&utm_medium=email&utm_term=0_6ff81e3e5b-a8f5b3b101-140510773&mc_cid=a8f5b3b101&mc_eid=372e8d3738)
 
-## Robots
+## Cool Robots
 * [The Rise of Small Farm Robots — Food is the New Internet](https://medium.com/food-is-the-new-internet/the-rise-of-small-farm-robots-365e76dbdac1#.lcet0qqdy)
 * [CSIC introduces the world’s first child-exoskeleton for spinal muscular atrophy](https://www.youtube.com/watch?v=aPkkjOMB-J4)
 * [New Agrobot Harvester](https://www.youtube.com/watch?v=NM9Op5RKbhk)
