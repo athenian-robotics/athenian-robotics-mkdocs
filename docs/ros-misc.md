@@ -48,12 +48,14 @@ Details on converting images between ROS and OpenCV are [here](http://wiki.ros.o
 
 Details of the *web_video_server* package are [here](http://wiki.ros.org/web_video_server).
 
-Install *web_video_server* the with:
-```bash
-sudo apt-get install ros-kinetic-web-video-server
-```
+!!! note "Install *web_video_server* with:"
 
-Run *web_video_server* with:
-```bash
-rosrun web_video_server web_video_server
-```
+    ```bash
+    sudo apt-get install ros-kinetic-web-video-server
+    ```
+
+!!! note "Run *web_video_server* with:"
+
+    ```bash
+    rosrun web_video_server web_video_server
+    ```

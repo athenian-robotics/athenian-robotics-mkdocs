@@ -7,84 +7,81 @@ repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
 repo_name: 'GitHub Home'
 
 nav:
-- Home: index.md
-- Overview: overview.md
-- Coding Resources: coding-resources.md
-- Languages:
-  - Python:
-    - Learning: learning-python.md
-    - Turtle Graphics: turtle-graphics.md
-    - Admin: python-admin.md
-  - Kotlin: kotlin.md
-  - Dart: dart.md
-- Operating Systems:
-  - OSX: osx-setup.md
-  - Linux:
-    - Raspbian: raspbian.md
-    - Ubuntu: ubuntu.md
-    - General Linux: linux.md
-    - ssh: ssh.md
-    - APT: apt.md
-- ROS:
-  - Installation: ros-installation.md
-  - Commands: ros-commands.md
-  - ROS Serial: ros-serial.md
-  - Miscellaneous: ros-misc.md
-  - ROS Master SD Card: ros-master.md
-  - Gazebo: gazebo.md
-- Software:
-  - Shell Commands: shell-commands.md
-  - Software Services: services.md
-  - Git: git.md
-  - Docker: docker.md
-  - Kubernetes: kubernetes.md
-  - gRPC: grpc.md
-  - OpenCV: opencv.md
-  - nginx: nginx.md
-  - Prometheus: prometheus.md
-  - Grafana: grafana.md
-  - Markdown: markdown.md
-  - MkDocs: mkdocs.md
-  - Databases: databases.md
-  - Web Services: webservices.md
-  - Web Content: webcontent.md
-  - Plot.ly: plotly.md
-  - XQuartz: xquartz.md
-  - AI Projects: ai-projects.md
-- Hardware:
-  - Raspberry Pi Zero W: raspipizero.md
-  - Raspi Hats: raspihats.md
-  - Sensors: sensors.md
-  - SD Cards: sd-cards.md
-  - Arduino: arduino.md
-  - Metro Mini: metro-mini.md
-  - Blinkt: blinkt.md
-  - Logitech Joystick: joystick.md
-  - Nvidia Jetson TX2: jetsontx2.md
-  - roboRIO: roborio.md
-  - Intel Euclid: euclid.md
-  - Adafruit Circuit Playground: circuitplayground.md
-  - BBC micro:bit: microbit.md
-- Tutorials:
-  - vim: vim.md
-  - Shell: shell.md
-  - Machine Learning: ml.md
-- Robots:
-  - TurtleBot3: turtlebot3.md
-  - GoPiGo: gopigo.md
-  - EV3:
-    - Admin: ev3-admin.md
-    - Python: ev3-python.md
-    - ROS: ev3-ros.md
-- FRC: frc.md
-- CodinGame Tips: codingame.md
-- Cool Projects: cool-projects.md
-- Miscellaneous: miscellaneous.md
-- Industry: industry.md
-- Education:
-  - Robots: education-robots.md
-  - Software: education-software.md
-
+  - Home: index.md
+  - Overview: overview.md
+  - Coding Resources: coding-resources.md
+  - Languages:
+    - Python:
+      - Learning: learning-python.md
+      - Turtle Graphics: turtle-graphics.md
+      - Admin: python-admin.md
+    - Kotlin: kotlin.md
+    - Dart: dart.md
+  - Operating Systems:
+    - OSX: osx-setup.md
+    - Linux:
+      - Raspbian: raspbian.md
+      - Ubuntu: ubuntu.md
+      - Generic Linux: linux.md
+      - ssh: ssh.md
+      - APT: apt.md
+  - ROS:
+    - Installation: ros-installation.md
+    - Commands: ros-commands.md
+    - ROS Serial: ros-serial.md
+    - Miscellaneous: ros-misc.md
+    - ROS Master SD Card: ros-master.md
+    - Gazebo: gazebo.md
+  - Software:
+    - Shell Commands: shell-commands.md
+    - Software Services: services.md
+    - Git: git.md
+    - Docker: docker.md
+    - Kubernetes: kubernetes.md
+    - gRPC: grpc.md
+    - OpenCV: opencv.md
+    - nginx: nginx.md
+    - Prometheus: prometheus.md
+    - Grafana: grafana.md
+    - Markdown: markdown.md
+    - MkDocs: mkdocs.md
+    - Databases: databases.md
+    - Web Services: webservices.md
+    - Web Content: webcontent.md
+    - Plot.ly: plotly.md
+    - XQuartz: xquartz.md
+    - AI Projects: ai-projects.md
+  - Hardware:
+    - Raspberry Pi Zero W: raspipizero.md
+    - Raspi Hats: raspihats.md
+    - Sensors: sensors.md
+    - SD Cards: sd-cards.md
+    - Arduino: arduino.md
+    - Metro Mini: metro-mini.md
+    - Blinkt: blinkt.md
+    - Logitech Joystick: joystick.md
+    - Nvidia Jetson TX2: jetsontx2.md
+    - roboRIO: roborio.md
+    - Intel Euclid: euclid.md
+    - Adafruit Circuit Playground: circuitplayground.md
+    - BBC micro:bit: microbit.md
+  - Tutorials:
+    - vim: vim.md
+    - Shell: shell.md
+    - Machine Learning: ml.md
+  - Robots:
+    - TurtleBot3: turtlebot3.md
+    - GoPiGo: gopigo.md
+    - EV3:
+      - Admin: ev3-admin.md
+      - Python: ev3-python.md
+      - ROS: ev3-ros.md
+  - FRC: frc.md
+  - CodinGame Tips: codingame.md
+  - Miscellaneous: miscellaneous.md
+  - Education:
+    - Robots: education-robots.md
+    - Software: education-software.md
 
 theme:
   name: 'material'
@@ -104,6 +101,27 @@ theme:
     code: Roboto Mono
   logo: 'images/owls.jpg'
   favicon: 'assets/images/favicon.ico'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      linenums: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 google_analytics: ['UA-90285378-1', 'auto']
 

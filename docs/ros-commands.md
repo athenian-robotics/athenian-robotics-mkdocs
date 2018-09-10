@@ -49,13 +49,13 @@ rqt   # (and select topic monitor)
 
 
 ## ROS Setup Debugging
-``` 
+```bash
 rqtwtf
 roswtf yourfile.launch
 ```
 
 ## ROS Utilities
-``` 
+```bash
 rqt
 rqt_graph
 rqt_console
@@ -66,7 +66,7 @@ roslaunch [package] [filename.launch]
 ```
 
 ## ROS Nodes
-``` 
+```bash
 rosnode list
 rosnode info
 rosrun [package_name] [node_name]
@@ -75,7 +75,7 @@ rosnode cleanup
 ```
 
 ## ROS Topics
-``` 
+```bash
 rostopic list              print information about active topics
 rostopic hz topic_name     display publishing rate of topic    
 rostopic bw topic_name     display bandwidth used by topic
@@ -85,7 +85,7 @@ rostopic type topic_name   print topic type
 ```
 
 ## ROS Services
-```
+```bash
 rosservice list                print information about active services
 rosservice call service_name   call the service with the provided args
 rosservice type service_name   print service type
@@ -94,7 +94,7 @@ rosservice uri service_name    print service ROSRPC uri
 ```
 
 ## ROS Parameters
-```
+```bash
 rosparam list                  list parameter names
 rosparam set param_name value  set parameter
 rosparam get param_name        get parameter
@@ -104,7 +104,7 @@ rosparam delete param_name     delete parameter
 ```
 
 ## ROS *msg* and *srv* Files
-``` 
+```bash
 rosmsg show     Show message description
 rosmsg list     List all messages
 rosmsg md5      Display message md5sum
@@ -115,7 +115,7 @@ rossrv show [service type]
 ```
 
 ## ROS Filesystem
-``` 
+```bash
 roscd [locationname[/subdir]]
 rosls [locationname[/subdir]]
 rospack find [package_name]

@@ -52,6 +52,6 @@ cd ~/catkin_ws/src
 git clone https://github.com/athenian-robotics/ros-demos.git
 ```
 
-Install the turtlebot3 packages as described [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/pc_software_setup/#install-ubuntu-on-remote-pc-desktop-or-laptop-pc)
+Install the turtlebot3 packages as described [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/pc_software_setup/#install-ubuntu-on-remote-pc-desktop-or-laptop-pc).
 
     
