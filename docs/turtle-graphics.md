@@ -9,7 +9,7 @@
 
     <iframe height="400px" width="100%" src="https://repl.it/@pambrose/Draw-a-Square?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-!!! example "Draw a Triangle Challenge"
+!!! question "Draw a Triangle Challenge"
 
     See the ``Athenian Turtle Graphics`` classroom.
 
@@ -17,7 +17,7 @@
 
     <iframe height="400px" width="100%" src="https://repl.it/@pambrose/Draw-a-Road-Stripe?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-!!! example "Draw Parallel Lines Challenge"
+!!! question "Draw Parallel Lines Challenge"
 
     See the ``Athenian Turtle Graphics`` classroom.
 
