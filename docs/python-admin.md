@@ -12,41 +12,47 @@ Python3 requires `gcc`, which you can get by installing
 [XCode](http://developer.apple.com/xcode/) or 
 [Command Line Tools](https://developer.apple.com/downloads/).
 
-Install python3 and pip3 with:
-```bash
-brew install python3
-```
+!!! note "Install python3 and pip3"
+
+    ```bash
+    brew install python3
+    ```
 
 ### EV3
 
-Install python3 and pip3:
-```bash
-sudo apt-get install python3
-sudo apt-get install python3-pip
-```
+!!! note "Install python3 and pip3"
+
+    ```bash
+    sudo apt-get install python3
+    sudo apt-get install python3-pip
+    ```
 
 
 ## Package Management
 
-Determine installed packages with:
-```bash
-pip list 
-```
+!!! example "Determine installed packages"
 
-Determine outdated packages with:
-```bash
-pip list --outdated
-```
+    ```bash
+    pip list 
+    ```
 
-Install a package with:
-```bash
-pip install pkg_name
-```
+!!! example "Determine outdated packages"
 
-Update a package with:
-```bash
-pip install --upgrade pkg_name
-```
+    ```bash
+    pip list --outdated
+    ```
+
+!!! example "Install a package"
+
+    ```bash
+    pip install pkg_name
+    ```
+
+!!! example "Update a package"
+
+    ```bash
+    pip install --upgrade pkg_name
+    ```
 
 ## PyPy 
 
