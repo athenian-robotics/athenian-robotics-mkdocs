@@ -13,7 +13,7 @@ nav:
   - Languages:
     - Python:
       - Learning: learning-python.md
-      - repl.it Exercises:
+      - Exercises:
         - Turtle Graphics: turtle-graphics.md
       - Admin: python-admin.md
     - Kotlin: kotlin.md
