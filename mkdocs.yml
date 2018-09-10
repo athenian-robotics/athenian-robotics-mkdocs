@@ -78,7 +78,8 @@ nav:
       - ROS: ev3-ros.md
   - FRC:
     - Networking: frc-networking.md
-    - Github Repo: https://github.com/athenian-robotics
+    - Robotics Repos: https://github.com/athenian-robotics
+    - Programmng Projects Repos: https://github.com/athenian-programming
   - CodinGame Tips: codingame.md
   - Education:
     - Robots: education-robots.md
