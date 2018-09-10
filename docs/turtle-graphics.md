@@ -1,4 +1,4 @@
-## Turtle Graphics with Python
+## Python Turtle Graphics 
 
 !!! info "Details"
 
