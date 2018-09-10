@@ -89,11 +89,9 @@ nav:
 
 theme:
   name: 'material'
-
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
-
   language: en
   feature:
     tabs: false
