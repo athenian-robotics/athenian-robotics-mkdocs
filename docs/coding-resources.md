@@ -1,6 +1,8 @@
 # Coding Resources
 
-[Sage advice](http://norvig.com/21-days.html) on learning how to program.
+!!! note 
+    
+    [Sage advice](http://norvig.com/21-days.html) on learning how to program.
 
 ## Visual Programming 
 * [Makecode](https://www.microsoft.com/en-us/makecode)

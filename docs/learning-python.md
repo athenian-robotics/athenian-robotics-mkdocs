@@ -1,7 +1,5 @@
 # Learning Python
 
-[Sage advice](http://norvig.com/21-days.html) on learning how to program.
-
 ## CodeHS Classes
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 
