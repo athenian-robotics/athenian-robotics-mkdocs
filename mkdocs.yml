@@ -34,7 +34,6 @@ nav:
     - ROS Master SD Card: ros-master.md
     - Gazebo: gazebo.md
   - Software:
-    - Shell Commands: shell-commands.md
     - Software Services: services.md
     - Git: git.md
     - Docker: docker.md

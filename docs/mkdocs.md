@@ -1,4 +1,3 @@
-
 # MkDocs Notes
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).

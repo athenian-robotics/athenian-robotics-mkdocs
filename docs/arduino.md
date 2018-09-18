@@ -1,4 +1,4 @@
-## Arduino Notes
+# Arduino Notes
 
 * [IoT Prototyping with Node.js and Firebase](https://www.youtube.com/watch?v=_RjfoNnxKGA)
 * [PlatformIO IDE: an alternative to the Arduino IDE](http://platformio.org/platformio-ide)
@@ -6,7 +6,7 @@
 * [The Ultimate Guide to Soldering](https://learn.pimoroni.com/tutorial/sandyj/the-ultimate-guide-to-soldering)
 * [Circuito.io](https://www.circuito.io/app)
 
-### Projects
+## Projects
 * [Make Your Own Printed Circuit Boards](https://www.youtube.com/watch?v=Tw0TYUh0l50)
 * [Hot Wheels Speed Trap](https://www.sparkfun.com/news/2179)
 * [Arduino Plant Monitor](https://www.electronicsweekly.com/blogs/gadget-master/arduino/build-plant-monitor-arduino-2016-09/)
