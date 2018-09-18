@@ -18,6 +18,7 @@
 * [Code for Teachers](https://www.youtube.com/playlist?list=PLzP_6l8bQEa9Q-ARfEFsTuXk8GMHkKStD)
 * [Python Coding Quickstart](https://github.com/athenian-robotics/athenian-robotics.github.io/blob/master/content/PythonCodingQuickstart.pdf)
 * [Udemy CS Foundations in Python](https://www.udemy.com/foundations-in-python/)
+* [Project Python](http://projectpython.net/chapter00/)
 
 ## Python Practice Exercises
 * [CodingBat](http://codingbat.com/python)

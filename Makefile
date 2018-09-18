@@ -3,7 +3,7 @@ default: website
 website:
 	mkdocs build --clean
 
-server:
+serve:
 	mkdocs serve
 
 deploy:
