@@ -26,7 +26,7 @@
 * [CheckIO](https://py.checkio.org)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/download/)
 
-** Python Visualization
+## Python Visualization
 * [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
 ## Online Python Shells
