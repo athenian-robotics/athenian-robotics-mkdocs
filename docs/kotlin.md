@@ -96,6 +96,7 @@
 
 ## Coroutines
 * [Introduction to Kotlin Coroutines](https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html)
+* [Coroutines Guide](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
 * [KotlinConf 2017 - Introduction to Coroutines](https://www.youtube.com/watch?v=_hfBv0a09Jc)
 * [KotlinConf 2017 - Deep Dive into Coroutines ](https://www.youtube.com/watch?v=YrrUCSi72E8)
 * [Quick Introduction to Kotlin Coroutines, Part 1](https://www.codementor.io/abdurahmanadilovic/quick-introduction-to-kotlin-coroutines-part-1-epybt49kf)
@@ -105,7 +106,6 @@
 * [Differentiating Thread and Coroutine in Kotlin](https://medium.com/@elye.project/differentiating-thread-and-coroutine-launch-runblocking-in-kotlin-28219506c002)
 * [Difference between a Coroutine and a Thread](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 * [An Introduction to Cooperative Multitasking with Kotlin Coroutines](https://blog.pronghorn.tech/cooperative-multitasking-with-kotlin-coroutines/)
-* [Coroutines Guide](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
