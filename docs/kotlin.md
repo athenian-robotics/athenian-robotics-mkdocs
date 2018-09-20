@@ -68,6 +68,7 @@
 * [Operator Overloading in Kotlin and the Invoke Operator](https://proandroiddev.com/til-about-operator-overloading-in-kotlin-and-the-invoke-operator-da3686ef4694)
 * [Introduction to Inline Classes](https://typealias.com/guides/introduction-to-inline-classes/)
 * [Using Kotlin's Require, Check and Assert](https://www.bignerdranch.com/blog/write-better-code-using-kotlins-require-check-and-assert/)
+* [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
