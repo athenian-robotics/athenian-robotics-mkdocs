@@ -11,7 +11,7 @@
 
 !!! question "Draw a Triangle Challenge"
 
-    See the ``Athenian Turtle Graphics`` classroom.
+    <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1531204/eaa7bb7b5f83ed6aaf3db994293f62fb"></iframe>
 
 !!! example "Draw a Road Stripe"
 
@@ -19,7 +19,7 @@
 
 !!! question "Draw Parallel Lines Challenge"
 
-    See the ``Athenian Turtle Graphics`` classroom.
+    <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1531204/eaa7bb7b5f83ed6aaf3db994293f62fb"></iframe>
 
 !!! example "Concentric Circles"
 

@@ -14,7 +14,9 @@ nav:
     - Python:
       - Learning: learning-python.md
       - Exercises:
-        - Python Basics: python-basics.md
+        - Basics: python-basics.md
+        - Conditionals: python-conditionals.md
+        - Iterations: python-iterations.md
         - Turtle Graphics: turtle-graphics.md
       - Setup: python-setup.md
     - Kotlin: kotlin.md
