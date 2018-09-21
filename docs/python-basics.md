@@ -4,23 +4,23 @@
 
     If you have not already done so, join the ``Athenian Python Basics`` classroom [here](https://repl.it/classroom/invite/YHN4GaI).
 
-!!! question "Say Hello Challenge"
+!!! question "Say Hello Assignment"
 
     <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1516258/d84880f489187f330ebd2931d7393a14"></iframe>
     
-!!! question "Square an Int Challenge"
+!!! question "Square an Int Assignment"
 
     <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1516259/fdcac38551e91eae145ab156c406e7a5"></iframe>
 
-!!! question "Double an Int Challenge"
+!!! question "Double an Int Assignment"
 
     <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1516742/7f403bf2974e40e118ebec7740b9a30b"></iframe>
 
-!!! question "Repeat a String Challenge"
+!!! question "Repeat a String Assignment"
 
     <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1516778/46f6b761f6cd378b9a6d2cc4899bb043"></iframe>
 
-!!! question "Sum of 3 Ints Challenge"
+!!! question "Sum of 3 Ints Assignment"
 
     <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/1516893/2abfd5705f74f7b27f2ad8ec5fed4583"></iframe>
 
