@@ -2,7 +2,7 @@
 
 !!! info "Sign Up"
 
-    * If you have not already done so, join the ``Athenian Python Basics`` classroom [here](https://repl.it/classroom/invite/YHN4GaI).
+    If you have not already done so, join the ``Athenian Python Basics`` classroom [here](https://repl.it/classroom/invite/YHN4GaI).
     
 !!! example "Boolean Expressions"
 
