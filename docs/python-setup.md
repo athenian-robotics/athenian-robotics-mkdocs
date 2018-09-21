@@ -1,4 +1,4 @@
-# Python Notes
+# Python Setup
 
 ## Installation
 

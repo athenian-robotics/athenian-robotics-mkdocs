@@ -15,7 +15,7 @@ nav:
       - Learning: learning-python.md
       - Exercises:
         - Turtle Graphics: turtle-graphics.md
-      - Admin: python-admin.md
+      - Setup: python-setup.md
     - Kotlin: kotlin.md
     - Dart: dart.md
   - Operating Systems:
