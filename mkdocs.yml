@@ -17,6 +17,8 @@ nav:
         - Basics: python-basics.md
         - Conditionals: python-conditionals.md
         - Iterations: python-iterations.md
+        - Lists: python-lists.md
+        - Dictionaries: python-dictionaries.md
         - Turtle Graphics: turtle-graphics.md
       - Setup: python-setup.md
     - Kotlin: kotlin.md
