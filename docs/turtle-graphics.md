@@ -1,6 +1,6 @@
 # Python Turtle Graphics 
 
-!!! info "Details"
+!!! info "Sign Up"
 
     * If you have not already done so, join the ``Athenian Turtle Graphics`` classroom [here](https://repl.it/classroom/invite/YMcqmdc).
     * The docs for Python Turtle Graphics are [here](https://docs.python.org/3.3/library/turtle.html?highlight=turtle).
