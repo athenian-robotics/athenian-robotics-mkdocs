@@ -69,6 +69,7 @@
 * [Introduction to Inline Classes](https://typealias.com/guides/introduction-to-inline-classes/)
 * [Using Kotlin's Require, Check and Assert](https://www.bignerdranch.com/blog/write-better-code-using-kotlins-require-check-and-assert/)
 * [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
+* [10 Kotlin Tricks in 10 ish minutes](https://www.youtube.com/watch?v=0sPzDwS55wM)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
