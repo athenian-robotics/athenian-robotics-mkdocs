@@ -12,3 +12,6 @@
 
     <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Rock-Paper-Scissors-with-dictionary?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
     
+??? example "Rock Paper Scissors Distribution (with dictionary)"
+
+    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/RandomDistributionWithMap?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
