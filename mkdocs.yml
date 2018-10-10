@@ -41,6 +41,7 @@ nav:
   - Software:
     - Software Services: services.md
     - Git: git.md
+    - Jupyter Notebooks: jupyter.md
     - Docker: docker.md
     - Kubernetes: kubernetes.md
     - gRPC: grpc.md
