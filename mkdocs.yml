@@ -46,6 +46,7 @@ nav:
     - Kubernetes: kubernetes.md
     - gRPC: grpc.md
     - OpenCV: opencv.md
+    - GraphQL: graphql.md
     - nginx: nginx.md
     - Prometheus: prometheus.md
     - Grafana: grafana.md
