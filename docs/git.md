@@ -2,6 +2,7 @@
 
 * [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 * [What is Git](https://codeburst.io/so-wtf-is-git-fa7daa0e0271)
+* [Git Tips](https://github.com/k88hudson/git-flight-rules)
 * [Terminal & GitHub](https://medium.com/career-change-coder/command-line-terminal-github-lets-make-it-really-simple-b47280341354)
 * [Git Hooked on Git Hooks](https://dev.to/rpalo/git-hooked-on-git-hooks)
 * [Git Stash](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
