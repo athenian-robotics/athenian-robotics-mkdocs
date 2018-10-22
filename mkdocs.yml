@@ -47,6 +47,7 @@ nav:
     - gRPC: grpc.md
     - OpenCV: opencv.md
     - GraphQL: graphql.md
+    - PyQt5: pyqt5.md
     - nginx: nginx.md
     - Prometheus: prometheus.md
     - Grafana: grafana.md
