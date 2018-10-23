@@ -70,6 +70,7 @@
 * [Using Kotlin's Require, Check and Assert](https://www.bignerdranch.com/blog/write-better-code-using-kotlins-require-check-and-assert/)
 * [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
 * [10 Kotlin Tricks in 10 ish minutes](https://www.youtube.com/watch?v=0sPzDwS55wM)
+* [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
@@ -84,11 +85,10 @@
 * [Function Type vs Function literal vs Lambda expression vs Anonymous function](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-function-type-vs-function-literal-vs-lambda-expression-vs-anonymous-edc97e8873e)
 * [Java 8 Stream API Analogies in Kotlin](http://www.baeldung.com/java-8-stream-vs-kotlin)
 * [Filtering Kotlin Collections](http://www.baeldung.com/kotlin-filter-collection)
-* [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
 
 ## Generics
 * [Covariance and Contravariance in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance/)
-* [Generics in Kotlin](http://www.baeldung.com/kotlin-generics)
+* [Generics in Kotlin](http://www.baeldung.com/kotlin-generics)k
 
 ## DSLs
 * [Writing DSLs in Kotlin (part 1)](https://proandroiddev.com/writing-dsls-in-kotlin-part-1-7f5d2193f277)
@@ -108,6 +108,7 @@
 * [Differentiating Thread and Coroutine in Kotlin](https://medium.com/@elye.project/differentiating-thread-and-coroutine-launch-runblocking-in-kotlin-28219506c002)
 * [Difference between a Coroutine and a Thread](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 * [An Introduction to Cooperative Multitasking with Kotlin Coroutines](https://blog.pronghorn.tech/cooperative-multitasking-with-kotlin-coroutines/)
+* [Understanding suspend function of Kotlin Coroutines](https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
