@@ -28,6 +28,8 @@
 * [The Nothing Type](https://medium.com/@agrawalsuneet/the-nothing-type-kotlin-2e7df43b0111)
 * [10 Kotlin Tricks in 10 ish minutes](https://www.youtube.com/watch?v=0sPzDwS55wM)
 * [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
+* [How to learn Kotlin: A resources guide ](https://www.techrepublic.com/article/how-to-learn-kotlin-a-resources-guide-for-developers/)
+* [From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
 ## Intermediate
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
