@@ -73,6 +73,7 @@
 * [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
 * [10 Kotlin Tricks in 10 ish minutes](https://www.youtube.com/watch?v=0sPzDwS55wM)
 * [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
+* [Kotlin made Interface so much better](https://medium.com/@elye.project/kotlin-made-interface-so-much-better-bbeaa59abdd7)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
