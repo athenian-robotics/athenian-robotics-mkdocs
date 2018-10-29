@@ -112,6 +112,7 @@
 * [Difference between a Coroutine and a Thread](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 * [An Introduction to Cooperative Multitasking with Kotlin Coroutines](https://blog.pronghorn.tech/cooperative-multitasking-with-kotlin-coroutines/)
 * [Understanding suspend function of Kotlin Coroutines](https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed)
+* [Kotlin Coroutines Guide](https://kotlinexpertise.com/kotlin-coroutines-guide/)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
