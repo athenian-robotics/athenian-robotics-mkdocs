@@ -38,6 +38,8 @@ nav:
     - Miscellaneous: ros-misc.md
     - ROS Master SD Card: ros-master.md
     - Gazebo: gazebo.md
+  - Circuit Playground:
+    - Crickit/CPX and CircuitPython: circuitpython.md
   - Software:
     - Software Services: services.md
     - Git: git.md
