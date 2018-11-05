@@ -45,7 +45,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(0.1)
     ```
     
-??? example "LED Usage"
+??? example "LED Cycles"
 
     ```python
     import time
@@ -55,7 +55,6 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=.1)
     pixels.fill((0, 0, 0))
     pixels.show()
-    pix_cnt = len(pixels)
     
     RED = (0x10, 0, 0) 
     GREEN = (0, 0x10, 0)
@@ -63,7 +62,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     YELLOW = (0x10, 0x10, 0)
     
     def lightUp(color):
-        for i in range(pix_cnt):
+        for i in range(len(pixels)):
             pixels[i] = color
             time.sleep(.05)
     
@@ -78,6 +77,8 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(1)
     ```
     
+??? example "LED Using Touch Values"
+
     ```python
     import time
     import board
@@ -87,7 +88,6 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=.1)
     pixels.fill((0, 0, 0))
     pixels.show()
-    pix_cnt = len(pixels)
     
     RED = (0x10, 0, 0) 
     GREEN = (0, 0x10, 0)
@@ -95,7 +95,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     YELLOW = (0x10, 0x10, 0)
     
     def lightUp(color):
-        for i in range(pix_cnt):
+        for i in range(len(pixels)):
             pixels[i] = color
             time.sleep(.05)
     
@@ -109,3 +109,77 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         if crickit.touch_4.value:
             lightUp(YELLOW)
     ```
+    
+ ??? example "LED Using Buttons"
+
+    ```python
+    import time
+    import board
+    import neopixel
+    from digitalio import DigitalInOut, Direction, Pull
+    
+    buttonA = DigitalInOut(board.BUTTON_A)
+    buttonA.direction = Direction.INPUT
+    buttonA.pull = Pull.DOWN
+
+    buttonB = DigitalInOut(board.BUTTON_B)
+    buttonB.direction = Direction.INPUT
+    buttonB.pull = Pull.DOWN
+
+    pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=.1)
+    pixels.fill((0, 0, 0))
+    pixels.show()
+    
+    RED = (0x10, 0, 0) 
+    GREEN = (0, 0x10, 0)
+    BLUE = (0, 0, 0x10)
+    YELLOW = (0x10, 0x10, 0)
+
+    def lightUp(color):
+        for i in range(len(pixels)):
+            pixels[i] = color
+    
+    while True:
+        if buttonA.value and buttonB.value: 
+            lightUp(YELLOW)
+        elif buttonA.value:
+            lightUp(RED)
+        elif buttonB.value:
+            lightUp(BLUE)
+        else:
+            lightUp(GREEN)
+
+        time.sleep(0.01)
+    ```
+    
+ ??? example "LED Using Slider"
+
+    ```python
+    import time
+    import board
+    import neopixel
+    from digitalio import DigitalInOut, Direction, Pull
+    
+    switch = DigitalInOut(board.SLIDE_SWITCH)
+    switch.direction = Direction.INPUT
+    switch.pull = Pull.UP
+
+    pixels = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=.1)
+    pixels.fill((0, 0, 0))
+    pixels.show()
+    
+    RED = (0x10, 0, 0) 
+    GREEN = (0, 0x10, 0)
+
+    def lightUp(color):
+        for i in range(len(pixels)):
+            pixels[i] = color
+    
+    while True:
+        if switch.value: 
+            lightUp(RED)
+        else:
+            lightUp(GREEN)
+
+        time.sleep(0.01)
+    ```    
