@@ -7,7 +7,7 @@
 
 !!! note "Running a program"
 
-    To run a program on the Crickit/CPX from Mu, save the code to **code.py*s* in the *CIRCUITPY* volume.
+    To run a program on the Crickit/CPX from Mu, save the code to a file named **code.py** in the *CIRCUITPY* volume.
 
 Click on **Serial** to open a REPL and view values printed from the code with *print()*.
 
@@ -43,7 +43,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         print(crickit.touch_1.raw_value, crickit.touch_2.raw_value,
             crickit.touch_3.raw_value, crickit.touch_4.raw_value)    
         time.sleep(0.1)
-    ```
+    ```    
     
 ??? example "LED Cycles"
 
@@ -62,7 +62,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     YELLOW = (0x10, 0x10, 0)
     
     def lightUp(color):
-        for i in range(len(pixels)):
+        for i in range(10):
             pixels[i] = color
             time.sleep(.05)
     
@@ -75,7 +75,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(1)
         lightUp(YELLOW)
         time.sleep(1)
-    ```
+    ```   
     
 ??? example "LED Using Touch Values"
 
@@ -95,7 +95,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     YELLOW = (0x10, 0x10, 0)
     
     def lightUp(color):
-        for i in range(len(pixels)):
+        for i in range(10):
             pixels[i] = color
             time.sleep(.05)
     
@@ -110,7 +110,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
             lightUp(YELLOW)
     ```
     
- ??? example "LED Using Buttons"
+??? example "LED Using Buttons"
 
     ```python
     import time
@@ -136,7 +136,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     YELLOW = (0x10, 0x10, 0)
 
     def lightUp(color):
-        for i in range(len(pixels)):
+        for i in range(10):
             pixels[i] = color
     
     while True:
@@ -152,7 +152,8 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(0.01)
     ```
     
- ??? example "LED Using Slider"
+    
+??? example "LED Using Slider"
 
     ```python
     import time
@@ -172,7 +173,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     GREEN = (0, 0x10, 0)
 
     def lightUp(color):
-        for i in range(len(pixels)):
+        for i in range(10):
             pixels[i] = color
     
     while True:
