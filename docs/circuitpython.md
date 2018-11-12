@@ -2,7 +2,15 @@
 
 * [Download and install Mu Editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
 * [Download and install the CircuitPython for Crickit/CPX](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-code)
+* [CircuitPython Libraries](https://learn.adafruit.com/welcome-to-circuitpython/circuitpython-libraries)
 
+## Setup
+
+!!! note "Installing the CircuitPython Library Bundle"
+
+    Download Library Bundle from [here](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases) and copy it to **lib** 
+    on the *CIRCUITPY* volume.
+    
 ## Usage
 
 !!! note "Running a program"
@@ -40,12 +48,12 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
     from adafruit_crickit import crickit
     
     while True:
-        print(crickit.touch_1.raw_value, crickit.touch_2.raw_value,
-            crickit.touch_3.raw_value, crickit.touch_4.raw_value)    
+        print("({}, {}, {}, {})".format(crickit.touch_1.raw_value, crickit.touch_2.raw_value,
+            crickit.touch_3.raw_value, crickit.touch_4.raw_value))    
         time.sleep(0.1)
     ```    
     
-??? example "LED Cycles"
+??? example "Alternating LEDs"
 
     ```python
     import time
@@ -77,7 +85,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(1)
     ```   
     
-??? example "LED Using Touch Values"
+??? example "Using Touch Values with LEDs"
 
     ```python
     import time
@@ -109,8 +117,8 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         if crickit.touch_4.value:
             lightUp(YELLOW)
     ```
-    
-??? example "LED Using Buttons"
+       
+??? example "Using the Buttons with LEDs"
 
     ```python
     import time
@@ -152,8 +160,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(0.01)
     ```
     
-    
-??? example "LED Using Slider"
+??? example "Using the Slider with LEDs"
 
     ```python
     import time
@@ -184,3 +191,25 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
 
         time.sleep(0.01)
     ```    
+    
+??? example "Plotting CPX LIS3DH Accelerometer Values"
+
+    ```python
+    import time
+    from adafruit_circuitplayground.express import cpx
+    
+    while True:
+        x, y, z = cpx.acceleration
+        print("({}, {}, {})".format(x, y, z))
+        time.sleep(0.1)
+    ```
+ 
+ ??? example "CPX Shake Detection"
+
+    ```python
+    from adafruit_circuitplayground.express import cpx
+    
+    while True:
+        if cpx.shake(shake_threshold=10):
+            print("Shake detected!")
+    ```
