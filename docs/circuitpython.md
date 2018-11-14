@@ -204,7 +204,7 @@ Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-cri
         time.sleep(0.1)
     ```
  
- ??? example "CPX Shake Detection"
+??? example "CPX Shake Detection"
 
     ```python
     from adafruit_circuitplayground.express import cpx

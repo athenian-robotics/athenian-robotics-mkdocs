@@ -7,6 +7,7 @@
 * [Toyota Has a New Weapon For Its Self-Driving Test Cars](http://fortune.com/2017/09/27/toyota-self-driving-car-luminar/)
 * [How to Choose a 3D Vision Technology](http://carnegierobotics.com/news/2017/8/25/how-to-choose-a-3d-vision-technology)
 * [TRANSFORM - Amazing Technology Invented By MIT](https://www.youtube.com/watch?v=lCARHatJQJA)
+* [The History of Unix, Rob Pike](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 
 ## Industry Posts
 * [Evolution of a Software Engineer](https://medium.com/@bfil/evolution-of-a-software-engineer-a9f88531084)
