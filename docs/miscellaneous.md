@@ -11,6 +11,7 @@
 
 ## Industry Posts
 * [Evolution of a Software Engineer](https://medium.com/@bfil/evolution-of-a-software-engineer-a9f88531084)
+* [A Software Engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166)
 * [How do I know if I’m good at programming?](http://www.danielslater.net/2017/07/how-do-i-know-if-im-good-at-programming.html)
 * [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 * [Three Paths in the Tech Industry: Founder, Executive, or Employee](https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/)
