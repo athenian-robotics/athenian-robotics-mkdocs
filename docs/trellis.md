@@ -1,4 +1,8 @@
-# [NeoTrellis M4](https://blog.adafruit.com/2018/11/06/adafruit-neotrellis-m4-adafruit-adafruit-circuitpython/) 
+# [NeoTrellis M4](https://blog.adafruit.com/2018/11/06/adafruit-neotrellis-m4-adafruit-adafruit-circuitpython/)
+
+## Docs
+
+Docs are [here](https://circuitpython.readthedocs.io/projects/trellism4/en/latest/).
 
 ## Setup
 
@@ -9,6 +13,12 @@
 3) Install the NeoTrellis CircuitPython library on your laptop as described 
 [here](https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4). \
 This will allow you to review the source code from PyCharm.
+
+4) Install the ADXL34x accelerometer library on your laptop with:
+
+```bash
+pip3 install adafruit_adxl34x
+```
 
 ## Usage
 

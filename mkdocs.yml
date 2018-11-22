@@ -73,7 +73,7 @@ nav:
     - Nvidia Jetson TX2: jetsontx2.md
     - roboRIO: roborio.md
     - Intel Euclid: euclid.md
-    - Trellis: trellis.md
+    - NeoTrellis M4: trellis.md
     - Adafruit Circuit Playground: circuitplayground.md
     - BBC micro:bit: microbit.md
   - Tutorials:
