@@ -21,6 +21,8 @@ Click on **Serial** to open a REPL and view values printed from the code with *p
 
 Click on **Plotter** to view tuple values printed to the REPL. The plotter will print tuple (but not list) values.
 
+The [Light Sensor Example](https://learn.adafruit.com/sensor-plotting-with-mu-and-circuitpython) is good for sample plotter data.
+
 ## Code Snipets
 
 Examples borrow from the [Adafruit docs](https://learn.adafruit.com/adafruit-crickit-creative-robotic-interactive-construction-kit/circuitpython-code/)
