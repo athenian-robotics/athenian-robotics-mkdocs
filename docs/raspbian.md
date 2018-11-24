@@ -7,6 +7,10 @@
 
 ## Install Raspian 
 
+### Using BerryLan
+
+[BerryLan](http://www.berrylan.org) makes connecting a Raspi to wifi really easy.
+
 ### Using OSX
 
 * Download the [Raspbian distro](https://www.raspberrypi.org/downloads/raspbian/raspbian.md).
