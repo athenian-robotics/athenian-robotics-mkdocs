@@ -21,6 +21,7 @@
 * [Project Python](http://projectpython.net/chapter00/)
 
 ## Python Practice Exercises
+* [Edabit](https://edabit.com)
 * [CodingBat](http://codingbat.com/python)
 * [Code Step By Step](https://www.codestepbystep.com)
 * [CheckIO](https://py.checkio.org)
