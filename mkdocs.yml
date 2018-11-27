@@ -21,6 +21,7 @@ nav:
         - Iterations: python-iterations.md
         - Functions: python-functions.md
       - Setup: python-setup.md
+      - Posts: python.md
     - Kotlin: kotlin.md
     - Dart: dart.md
   - Operating Systems:
