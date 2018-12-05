@@ -93,6 +93,8 @@ nav:
     - Robotics Repos: https://github.com/athenian-robotics
     - Programmng Projects Repos: https://github.com/athenian-programming
   - CodinGame Tips: codingame.md
+  - Hour of Code: hoc.md
+  - Teacher Notes for HOC: teacher-hoc.md
   - Education:
     - Robots: education-robots.md
     - Software: education-software.md
