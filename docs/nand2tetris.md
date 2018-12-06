@@ -1,10 +1,14 @@
 # Nand To Tetris
 
-## Misc Links
+## Useful Links
 * [Nand to Tetris Website](https://www.nand2tetris.org)
 * [Elements of Computing Systems Book](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
 * [Google Tech Talk on Nand2Tetris](https://www.youtube.com/watch?v=IlPj5Rg1y2w)
 * [Nand2Tetris Study-Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)
+
+## Related Products
+* [Mojo FPGA Development Board](https://www.adafruit.com/product/1553)
+* [Verilog Tutorials](https://alchitry.com/pages/verilog)
 
 !!! info "Part 1 Unit 0"
     * [0.0: Introduction](https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI&index=1)
