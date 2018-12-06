@@ -8,6 +8,7 @@
 
 ## Related Products
 * [Mojo FPGA Development Board](https://www.adafruit.com/product/1553)
+* [Lucid Tutorials](https://alchitry.com/pages/lucid)
 * [Verilog Tutorials](https://alchitry.com/pages/verilog)
 
 !!! info "Part 1 Unit 0"
