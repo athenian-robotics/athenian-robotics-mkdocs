@@ -25,3 +25,7 @@ Pin assignments are described [here](https://d3s5r33r268y59.cloudfront.net/51533
 ## Indoor GPS
 [Pozyx Accurate positioning](https://www.pozyx.io)
 
+## Garmin Lidar Lite v3
+
+The Garmin Lidar Lite v3 is described [here](http://static.garmin.com/pumac/LIDAR_Lite_v3_Operation_Manual_and_Technical_Specifications.pdf).
+

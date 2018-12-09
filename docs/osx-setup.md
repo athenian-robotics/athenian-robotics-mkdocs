@@ -54,11 +54,6 @@ brew install python3
 sudo easy_install pip
 ```
 
-### [git](https://git-scm.com)
-```bash
-brew install git
-```
-
 ### [GitHub Desktop](https://desktop.github.com)
 
 ### [maven](http://maven.apache.org)

@@ -53,3 +53,6 @@
 
 ## Cloud REPLs
 * [Jupyter](https://try.jupyter.org)  (New->Terminal)
+
+## Advanced Python
+* [A collection of surprising Python snippets and lesser-known features](https://github.com/satwikkansal/wtfpython)

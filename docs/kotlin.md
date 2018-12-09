@@ -30,6 +30,7 @@
 * [Kotlin From Scratch](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [How to learn Kotlin: A resources guide ](https://www.techrepublic.com/article/how-to-learn-kotlin-a-resources-guide-for-developers/)
 * [From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+* [Kotlin for Python Developers](https://khan.github.io/kotlin-for-python-developers/)
 
 ## Intermediate
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
