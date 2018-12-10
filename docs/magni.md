@@ -1,8 +1,8 @@
 # Magni Notes
 
-## Connecting to robot while in Wifi AP 
+## Connect to robot while in AP mode 
 * wifi passwd: robotseverywhere
-* ``ssh ubuntu@ubiquityrobot.local`` password: ubuntu
+* Connect with: ``ssh ubuntu@ubiquityrobot.local`` password: ubuntu
 
 ## Wifi Management
 The Magni uses [pifi](https://github.com/rohbotics/pifi) for wifi management. The Magni distro boots
@@ -15,9 +15,12 @@ Charge to 29.4 with 32 volts with 1 amp current limit
 You should see 5 green lights, with top light blinking every 6 seconds.
 
 ## Handy Commands
-* Calibrartin the wheels: ``rosrun rqt_reconfigure rqt_reconfigure``
+* Assign new hostname: ``sudo pifi set-hostname NEW_HOSTNAME``
+* Connect the robot to a network: ``sudo pifi add MyNetwork password``
+* Reset the robot's wifi to AP mode: press SW2 button on the sensor bar
+* Calibrate the wheels: ``rosrun rqt_reconfigure rqt_reconfigure``
 * Simple teleop: ``rosrun teleop_twist_keyboard teleop_twist_keyboard.py``
-* Shutting down the robot: ``sudo shutdown -h now``
+* Shutting down the robot: ``sudo shutdown -h now`` or press SW1 button on the sensor bar and hold for 3 seconds
 
 
 

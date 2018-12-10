@@ -35,4 +35,12 @@ THe script explanation is [here](https://www.learnopencv.com/install-opencv-4-on
 
 Detailed instructions are [here](http://www.learnopencv.com/install-opencv3-on-windows/)
 
+### Determining OpenCV version
+```bash
+Determining openCV version
+$ python
+>>> import cv2
+>>> cv2.__version__
+```
+
 
