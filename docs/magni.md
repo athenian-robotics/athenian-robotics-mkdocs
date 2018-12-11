@@ -9,7 +9,7 @@ The Magni uses [pifi](https://github.com/rohbotics/pifi) for wifi management. Th
 as an wifi AP, which allows you to login via ssh and add your local wifi SID.
 
 ## Charging
-Charge to 29.4 with 32 volts with 1 amp current limit
+    Charge to 29.4 with 32 volts with 1 amp current limit
 
 ## Harware Status
 You should see 5 green lights, with top light blinking every 6 seconds.
