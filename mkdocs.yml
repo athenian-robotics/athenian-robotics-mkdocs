@@ -82,6 +82,7 @@ nav:
     - Shell: shell.md
     - Machine Learning: ml.md
   - Robots:
+    - Magni: magni.md
     - TurtleBot3: turtlebot3.md
     - GoPiGo: gopigo.md
     - EV3:

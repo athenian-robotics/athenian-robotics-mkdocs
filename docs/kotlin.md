@@ -145,3 +145,6 @@
 * [Embedding Kotlin Playground](https://blog.jetbrains.com/kotlin/2018/04/embedding-kotlin-playground/)
 * [Kotlin Code Samples](https://github.com/thomasnield/kotlin_for_java_devs_talk/tree/master/src/main/kotlin/org/nield)
 * [Kotlin Shell Scripts](https://medium.com/@OhadShai/type-safety-in-the-shell-with-kscript-7dd40d022537)
+
+## Videos
+* [Kotlin Coroutines and Kotlin 1.3 Q&A](https://www.youtube.com/watch?v=FAhR_sqlUy4)
