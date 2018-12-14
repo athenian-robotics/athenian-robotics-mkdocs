@@ -24,10 +24,11 @@
 * [Sign up](https://codehs.com/go/F5BA9) for ``Intro to Python with Tracy the Turtle`` (Class code: F5BA9)
 * [Sign up](httsp://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 
+## CoderZ
+* [Sign up](https://play.gocoderz.com:443/login/#/joinclass/Limahorse) for the class (requires the Chrome browser)
+
 ## CodeCombat
 * [Escape the Dungeon!](https://codecombat.com/play/dungeon?hour_of_code=true)
-
-
 
 
 
