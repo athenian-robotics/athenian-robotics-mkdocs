@@ -23,15 +23,15 @@ nav:
       - Setup: python-setup.md
       - Posts: python.md
     - Kotlin: kotlin.md
-    - Dart: dart.md
   - Operating Systems:
     - OSX: osx-setup.md
     - Linux:
       - Raspbian: raspbian.md
       - Ubuntu: ubuntu.md
       - Generic Linux: linux.md
-      - ssh: ssh.md
-      - APT: apt.md
+      - Linux Commands:
+        - ssh: ssh.md
+        - apt: apt.md
   - ROS:
     - Installation: ros-installation.md
     - Commands: ros-commands.md
@@ -42,6 +42,7 @@ nav:
   - Circuit Playground:
     - Crickit/CPX and CircuitPython: circuitpython.md
   - Software:
+    - Links: software-links.md
     - Software Services: services.md
     - Git: git.md
     - Jupyter Notebooks: jupyter.md
