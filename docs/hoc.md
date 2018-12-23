@@ -9,7 +9,7 @@
 
 ## CodeHS Hour of Code Exercises
 
-* [Intoduction to Programming with Karel the Dog](https://codehs.com/hoc_karel) 
+* [Introduction to Programming with Karel the Dog](https://codehs.com/hoc_karel) 
 * [Python Turtle Graphics with Tracy the Turtle](https://codehs.com/hoc_turtle) 
 * [Coding in Python](https://codehs.com/hoc_python) 
 

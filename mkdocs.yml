@@ -50,6 +50,8 @@ nav:
     - gRPC: grpc.md
     - OpenCV: opencv.md
     - GraphQL: graphql.md
+    - Flutter: flutter.md
+    - RoboMaker: robomaker.md
     - PyQt5: pyqt5.md
     - nginx: nginx.md
     - Prometheus: prometheus.md
