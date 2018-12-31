@@ -93,13 +93,14 @@
 
 ## Generics
 * [Covariance and Contravariance in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance/)
-* [Generics in Kotlin](http://www.baeldung.com/kotlin-generics)k
+* [Generics in Kotlin](http://www.baeldung.com/kotlin-generics)
 
 ## DSLs
 * [Writing DSLs in Kotlin (part 1)](https://proandroiddev.com/writing-dsls-in-kotlin-part-1-7f5d2193f277)
 * [Writing DSLs in Kotlin (part 2)](https://proandroiddev.com/writing-dsls-in-kotlin-part-2-cd9dcd0c4715)
 * [Building blocks of a Kotlin DSL](https://www.kotlindevelopment.com/kotlin-dsl/)
 * [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
+* [Creating Kotlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
 
 ## Coroutines
 * [Introduction to Kotlin Coroutines](https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html)
