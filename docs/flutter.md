@@ -9,7 +9,14 @@
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Flutter Q&A Part 1](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-1-9b80753a16a1)
 * [Flutter Q&A Part 2](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-2-e4d962f3f270)
+* [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 
 ## Widgets
 * [Flutter splash screen example](http://codesfor.in/flutter-splash-screen-example/)
+* [A Deep Dive Into Flutter TextFields](https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a)
+* [Flutter ListView and ScrollPhysics](https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754)
 * [Adding a border to a widget](https://medium.com/@studymongolian/adding-a-border-to-a-widget-in-flutter-d387bc5d7cff)
+
+## Hummingbird
+* [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
+
