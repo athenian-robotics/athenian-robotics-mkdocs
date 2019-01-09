@@ -12,6 +12,7 @@
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 
 ## Widgets
+* [Versioning with Flutter](https://medium.com/@ralphbergmann/versioning-with-flutter-299869e68af4)
 * [Flutter splash screen example](http://codesfor.in/flutter-splash-screen-example/)
 * [A Deep Dive Into Flutter TextFields](https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a)
 * [Flutter ListView and ScrollPhysics](https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754)

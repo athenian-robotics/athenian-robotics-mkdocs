@@ -23,6 +23,7 @@ nav:
       - Setup: python-setup.md
       - Posts: python.md
     - Kotlin: kotlin.md
+    - C: c.md
   - Operating Systems:
     - OSX: osx-setup.md
     - Linux:
