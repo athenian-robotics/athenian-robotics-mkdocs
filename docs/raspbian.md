@@ -9,7 +9,7 @@
 
 ### Using BerryLan
 
-[BerryLan](http://www.berrylan.org) makes connecting a Raspi to wifi really easy.
+[BerryLan](http://www.berrylan.org) makes connecting a Raspi running Raspbian to wifi really easy.
 
 ### Using OSX
 
