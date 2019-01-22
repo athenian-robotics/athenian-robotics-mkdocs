@@ -1,8 +1,9 @@
 # Magni Notes
 
 ## Connect to robot while in wifi AP mode 
-* wifi passwd: robotseverywhere
-* Once connected, login with: ``ssh ubuntu@ubiquityrobot.local`` password: ubuntu
+* Click the outside button on the sensor bar to enable wifi AP mode.
+* Connect to the magni SSID using this wifi password: robotseverywhere
+* Once connected, login with: ``ssh ubuntu@magni.local`` password: ubuntu (the default hostname is `ubiquityrobot.local`)
 
 ## Wifi Management
 * The Magni uses [pifi](https://github.com/rohbotics/pifi) for wifi management. 
