@@ -17,7 +17,7 @@
 * [Sign up](http://codehs.com/go/F1782) for ``AP Computer Science in Java`` (Class code: F1782) 
 
 ## Python Resources
-* [Learning Python](./learning-python/)
+* [Learning Python](../learning-python/)
 
 ## Github
 * [GitHub Learning Lab](https://lab.github.com)
