@@ -12,9 +12,6 @@
 ## Python Tutorials
 * [Learn Python Tutorial](https://www.learnpython.org)
 * [Google Python Tutorial](https://developers.google.com/edu/python/)
-* [Python Cheatsheets](https://www.pythonsheets.com)
-* [List Comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
-* [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/CS152f17/index.html)
 * [Code for Teachers](https://www.youtube.com/playlist?list=PLzP_6l8bQEa9Q-ARfEFsTuXk8GMHkKStD)
 * [Python Coding Quickstart](https://github.com/athenian-robotics/athenian-robotics.github.io/blob/master/content/PythonCodingQuickstart.pdf)
 * [Udemy CS Foundations in Python](https://www.udemy.com/foundations-in-python/)

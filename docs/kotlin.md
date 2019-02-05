@@ -76,6 +76,7 @@
 * [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
 * [Kotlin made Interface so much better](https://medium.com/@elye.project/kotlin-made-interface-so-much-better-bbeaa59abdd7)
 * [What Are Kotlin Contracts and How Are They Useful?](https://pspdfkit.com/blog/2018/kotlin-contracts/#)
+* [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
@@ -139,6 +140,9 @@
 * [Kotlin Academy Puzzles](https://blog.kotlin-academy.com/puzzlers-on-kotlin-academy-week-1-84f42437ee94)
 * [Kotlin Puzzlers](https://github.com/angryziber/kotlin-puzzlers)
 
+## Learning
+* [Kotlin for Python developers](https://khan.github.io/kotlin-for-python-developers/#setters-and-getters)
+
 ## Bootcamps 
 * [Kotlin Bootcamp for Programmers by Google](https://in.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
@@ -146,6 +150,7 @@
 * [Embedding Kotlin Playground](https://blog.jetbrains.com/kotlin/2018/04/embedding-kotlin-playground/)
 * [Kotlin Code Samples](https://github.com/thomasnield/kotlin_for_java_devs_talk/tree/master/src/main/kotlin/org/nield)
 * [Kotlin Shell Scripts](https://medium.com/@OhadShai/type-safety-in-the-shell-with-kscript-7dd40d022537)
+* [What's New In Kotlin 1.3?](https://todd.ginsberg.com/post/kotlin-1.3-features/)
 
 ## Videos
 * [Kotlin Coroutines and Kotlin 1.3 Q&A](https://www.youtube.com/watch?v=FAhR_sqlUy4)

@@ -6,6 +6,9 @@
 * [Terminal & GitHub](https://medium.com/career-change-coder/command-line-terminal-github-lets-make-it-really-simple-b47280341354)
 * [Git Hooked on Git Hooks](https://dev.to/rpalo/git-hooked-on-git-hooks)
 * [Git Stash](https://medium.freecodecamp.org/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a)
+* [The GitHub Development Workflow](https://itnext.io/the-github-development-workflow-fb48d9bb63f9  )
+* [Simple Rules for Git and Github](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
+* [Understanding Git Bisect](https://hackernoon.com/understanding-git-bisect-i-e-use-binary-search-to-find-the-change-that-introduced-a-bug-89489b4c9fa6)
 
 ## Installation
 
