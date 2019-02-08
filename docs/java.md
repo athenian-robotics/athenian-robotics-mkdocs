@@ -4,3 +4,4 @@
 * [Installing Java on Raspbian](http://tecadmin.net/install-java-8-on-debian/#)
 * [Understandfing Java References](https://medium.com/google-developer-experts/finally-understanding-how-references-work-in-android-and-java-26a0d9c92f83)
 * [Gradle vs Maven](https://dzone.com/articles/gradle-vs-maven)
+* [Deadlock in Java](https://hackernoon.com/how-to-avoid-a-deadlock-while-writing-concurrent-programs-java-example-988bb07db25f)
