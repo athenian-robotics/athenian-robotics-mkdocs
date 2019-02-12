@@ -33,3 +33,8 @@
 
 ## Publishing Apps
 * [How to Publish Your App on Apple’s App Store in 2018](https://medium.com/@the_manifest/how-to-publish-your-app-on-apples-app-store-in-2018-f76f22a5c33a)
+
+## Projects
+* [Flutter +MLKit](https://medium.com/flutter-community/flutter-mlkit-8039ec66b6a)
+* [Weather App](https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d)
+
