@@ -6,3 +6,4 @@
 * [Python Cheatsheets](https://www.pythonsheets.com)
 * [List Comprehensions](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/CS152f17/index.html)
+* [argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)

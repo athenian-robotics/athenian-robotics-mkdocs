@@ -10,6 +10,7 @@
 * [Flutter Q&A Part 1](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-1-9b80753a16a1)
 * [Flutter Q&A Part 2](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-2-e4d962f3f270)
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
+* [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
 
 ## Libraries
 * [kt.dart](https://github.com/passsy/kt.dart)

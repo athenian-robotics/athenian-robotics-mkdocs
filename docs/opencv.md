@@ -8,6 +8,9 @@
 * [OpenCV Getting Started](https://github.com/handee/opencv-gettingstarted/blob/master/1%20Getting%20started%20notebook.ipynb)
 * [LearnOpenCV Tutorials](https://github.com/spmallick/learnopencv)
 
+## Cool Projects
+* [Invisibility Cloak using Color Detection and Segmentation](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)
+
 ## Setup
 
 ### OSX
