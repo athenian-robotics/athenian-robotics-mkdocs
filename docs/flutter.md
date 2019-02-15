@@ -11,6 +11,8 @@
 * [Flutter Q&A Part 2](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-2-e4d962f3f270)
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 * [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
+* [The Flutter Revolution - Recipe for building apps without pain](https://speakerdeck.com/shuaib/the-flutter-revolution-recipe-for-building-apps-without-pain)
+* [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
 
 ## Libraries
 * [kt.dart](https://github.com/passsy/kt.dart)

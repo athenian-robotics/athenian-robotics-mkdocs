@@ -118,6 +118,10 @@
 * [An Introduction to Cooperative Multitasking with Kotlin Coroutines](https://blog.pronghorn.tech/cooperative-multitasking-with-kotlin-coroutines/)
 * [Understanding suspend function of Kotlin Coroutines](https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed)
 * [Kotlin Coroutines Guide](https://kotlinexpertise.com/kotlin-coroutines-guide/)
+* [Understanding suspending functions in Kotlin](https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aae4bfd9991)
+* [Creating Koltlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
+* [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
+
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)

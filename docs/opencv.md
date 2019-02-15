@@ -10,6 +10,7 @@
 
 ## Cool Projects
 * [Invisibility Cloak using Color Detection and Segmentation](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)
+* [Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)
 
 ## Setup
 
