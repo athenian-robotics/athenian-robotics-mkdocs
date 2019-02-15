@@ -57,6 +57,7 @@ nav:
     - GraphQL: graphql.md
     - Flutter: flutter.md
     - RoboMaker: robomaker.md
+    - FAAS: faas.md
     - PyQt5: pyqt5.md
     - nginx: nginx.md
     - Gradle: gradle.md
