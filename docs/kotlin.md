@@ -31,6 +31,8 @@
 * [How to learn Kotlin: A resources guide ](https://www.techrepublic.com/article/how-to-learn-kotlin-a-resources-guide-for-developers/)
 * [From Java to Kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 * [Kotlin for Python Developers](https://khan.github.io/kotlin-for-python-developers/)
+* [8 Kotlin Features Every Java Developer Should Know In 2019](https://www.mobileappdaily.com/2018/12/3/kotlin-features-for-java-developers)
+* [Guide to Kotlin](https://github.com/Zhuinden/guide-to-kotlin)
 
 ## Intermediate
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
@@ -77,6 +79,8 @@
 * [Kotlin made Interface so much better](https://medium.com/@elye.project/kotlin-made-interface-so-much-better-bbeaa59abdd7)
 * [What Are Kotlin Contracts and How Are They Useful?](https://pspdfkit.com/blog/2018/kotlin-contracts/#)
 * [Kotlin’s vararg and spread operator](https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1)
+* [Data classes aren't (that) magical](https://zsmb.co/data-classes-arent-that-magical)
+* [Curated collection of useful Kotlin 1.3 snippets](https://github.com/IvanMwiruki/30-seconds-of-kotlin)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
@@ -121,13 +125,15 @@
 * [Understanding suspending functions in Kotlin](https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aae4bfd9991)
 * [Creating Koltlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
 * [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
-
+* [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
+* [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
 * [Java to Kotlin Cheatsheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 * [Kotlin Cheatsheet](https://kotlinexpertise.com/wp-content/uploads/2018/05/dzone_refcard_kotlin.pdf)
 * [Yet Another Cheatsheet](http://kotlinacademy.org/wp-content/uploads/2018/05/Kotlin-Cheat-Sheet.pdf)
+* [http://kt.academy/Kotlin_Coroutines_Cheat_Sheet.pdf](http://kt.academy/Kotlin_Coroutines_Cheat_Sheet.pdf)
 
 ## Kotlin Warnings
 * [Kotlin Pitfalls](https://medium.freecodecamp.org/kotlin-pitfalls-and-how-to-avoid-them-7b0d3a2109ad)
