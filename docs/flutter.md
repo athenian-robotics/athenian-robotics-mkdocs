@@ -50,4 +50,5 @@
 * [Flutter+MLKit](https://medium.com/flutter-community/flutter-mlkit-8039ec66b6a)
 * [Weather App](https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d)
 * [Flutter: Google Translate part 1](https://blog.usejournal.com/flutter-google-translate-part-1-63b50c93d873)
+* [Building a Tic-Tac-Toe app in Flutter](https://medium.com/@dmilicic/building-a-tic-tac-toe-app-in-flutter-e893792f1fed)
 
