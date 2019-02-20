@@ -3,14 +3,15 @@
 * [Flutter](https://flutter.io)
 * [Dart](https://www.dartlang.orgs)
 * [13 Reasons Why you should choose/ consider to move to Flutter](https://medium.com/flutter-community/13-reasons-why-you-should-choose-consider-to-move-to-flutter-in-2019-24323ee259c1)
+* [Flutter — 5 reasons why you may love it](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa)
 * [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 * [An Introduction to Flutter: The Basics](https://medium.freecodecamp.org/an-introduction-to-flutter-the-basics-9fe541fd39e2)
 * [Flutter — The sky’s the limit](https://edit.theappbusiness.com/flutter-the-skys-the-limit-84887c8f650d)
-* [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Flutter Q&A Part 1](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-1-9b80753a16a1)
 * [Flutter Q&A Part 2](https://medium.com/flutter-community/flutter-live-recap-askflutter-questions-and-answers-part-2-e4d962f3f270)
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 * [The Flutter Revolution - Recipe for building apps without pain](https://speakerdeck.com/shuaib/the-flutter-revolution-recipe-for-building-apps-without-pain)
+* [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 
 ## Getting Started
 * [Practical Flutter: 6 Tips for Newcomers](https://hackernoon.com/practical-flutter-my-personal-6-tips-for-newcomers-dfbe44a29246)
@@ -51,4 +52,8 @@
 * [Weather App](https://medium.com/flutter-community/weather-app-with-flutter-bloc-e24a7253340d)
 * [Flutter: Google Translate part 1](https://blog.usejournal.com/flutter-google-translate-part-1-63b50c93d873)
 * [Building a Tic-Tac-Toe app in Flutter](https://medium.com/@dmilicic/building-a-tic-tac-toe-app-in-flutter-e893792f1fed)
+* [https://nickcullen.net/blog/flutter/read-a-barcode/](https://nickcullen.net/blog/flutter/read-a-barcode/)
+* [Flutter Drawing App ](https://github.com/SnakeyHips/drawapp)
+* [Flutter Reddit App](https://hackernoon.com/i-love-you-flutter-fd7c30b2047e)
+* [Building Forms with Flutter](https://codingwithjoe.com/building-forms-with-flutter/)
 
