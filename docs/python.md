@@ -10,3 +10,6 @@
 
 ## Cool Projects
 * [ASCII-generator](https://github.com/vietnguyen91/ASCII-generator)
+
+## Details
+* [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
