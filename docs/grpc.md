@@ -1,9 +1,11 @@
 # gRPC Notes
 
-## gRPC Tutorials
+## General
 * [Introduction to gRPC](http://www.baeldung.com/grpc-introduction)
+* [gRPC Summary](https://devopedia.org/grpc)
+* [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#other-dart)
 
-## gRPC Presentations
+## Presentations
 * [Enabling Googley Microservices with http2 and gRPC](https://www.slideshare.net/borisovalex/enabling-googley-microservices-with-http2-and-grpc)
 
 ## gRPC Installation for Python
