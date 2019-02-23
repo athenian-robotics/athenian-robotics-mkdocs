@@ -56,4 +56,5 @@
 * [Flutter Drawing App ](https://github.com/SnakeyHips/drawapp)
 * [Flutter Reddit App](https://hackernoon.com/i-love-you-flutter-fd7c30b2047e)
 * [Building Forms with Flutter](https://codingwithjoe.com/building-forms-with-flutter/)
+* [Building a Puzzle Game Using Flutter](https://medium.com/@dragosholban/building-a-puzzle-game-using-flutter-6f629873102d)
 

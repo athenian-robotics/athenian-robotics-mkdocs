@@ -36,6 +36,7 @@ nav:
       - Linux Commands:
         - ssh: ssh.md
         - apt: apt.md
+    - Unix: unix.md
   - ROS:
     - Installation: ros-installation.md
     - Commands: ros-commands.md
