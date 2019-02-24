@@ -163,6 +163,7 @@
 * [Kotlin Code Samples](https://github.com/thomasnield/kotlin_for_java_devs_talk/tree/master/src/main/kotlin/org/nield)
 * [Kotlin Shell Scripts](https://medium.com/@OhadShai/type-safety-in-the-shell-with-kscript-7dd40d022537)
 * [What's New In Kotlin 1.3?](https://todd.ginsberg.com/post/kotlin-1.3-features/)
+* [How To Document A Kotlin Project](https://dev.to/cjbrooks12/how-to-document-a-kotlin-project-edc)
 
 ## Videos
 * [Kotlin Coroutines and Kotlin 1.3 Q&A](https://www.youtube.com/watch?v=FAhR_sqlUy4)
