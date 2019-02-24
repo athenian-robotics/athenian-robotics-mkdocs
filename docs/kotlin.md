@@ -128,6 +128,7 @@
 * [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
 * [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
 * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
+* [Retrofit meets coroutines](https://zsmb.co/retrofit-meets-coroutines/)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)

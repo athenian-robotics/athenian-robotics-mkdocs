@@ -1,5 +1,7 @@
 # Miscellaneous ROS Notes
 
+* [ROS metapackage enabling FRC teams to use ROS on their robots](https://github.com/uwreact/frc_control
+
 ## Creating New Packages
 
 !!! note "Create **new_package_name**, which depends on **std_msgs** and **rospy**"

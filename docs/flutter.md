@@ -33,6 +33,7 @@
 * [Flutter ListView and ScrollPhysics](https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754)
 * [Adding a border to a widget](https://medium.com/@studymongolian/adding-a-border-to-a-widget-in-flutter-d387bc5d7cff)
 * [The Power of WebViews in Flutter](https://medium.com/flutter-io/the-power-of-webviews-in-flutter-a56234b57df2)
+* [Simple ways to pass to and share data with widgets/pages](https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b)
 
 ## Hummingbird
 * [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
@@ -41,8 +42,13 @@
 * [13 Reasons Why you should choose/ consider to move to Flutter](https://medium.com/flutter-community/13-reasons-why-you-should-choose-consider-to-move-to-flutter-in-2019-24323ee259c1)
 * [What It Was Like to Write a Full Blown Flutter App](https://hackernoon.com/what-it-was-like-to-write-a-full-blown-flutter-app-330d8202825b)
 * [Porting a 75,000 line native iOS app to Flutter](https://medium.com/flutter-community/porting-a-75-000-line-native-ios-app-to-flutter-57c6571c57b4)
+* [Flutter — I don’t hate it](https://blog.usejournal.com/flutter-i-dont-hate-it-3e8f7d60733b)
+* [How I developed SpaceX GO! using Flutter](https://medium.com/flutter-community/how-i-developed-spacex-go-using-flutter-aa66e9bf14c3)
 
 ## Publishing Apps
+* [How to Publish Your App on App Store and Google Play: A Comprehensive Go-to-Market Guide](https://dzone.com/articles/how-to-publish-your-app-on-app-store-and-google-pl)
+* [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/120-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-1)
+* [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/119-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-2)
 * [How to Publish Your App on Apple’s App Store in 2018](https://medium.com/@the_manifest/how-to-publish-your-app-on-apples-app-store-in-2018-f76f22a5c33a)
 
 ## Projects
@@ -57,4 +63,3 @@
 * [Flutter Reddit App](https://hackernoon.com/i-love-you-flutter-fd7c30b2047e)
 * [Building Forms with Flutter](https://codingwithjoe.com/building-forms-with-flutter/)
 * [Building a Puzzle Game Using Flutter](https://medium.com/@dragosholban/building-a-puzzle-game-using-flutter-6f629873102d)
-
