@@ -35,6 +35,10 @@
 * [The Power of WebViews in Flutter](https://medium.com/flutter-io/the-power-of-webviews-in-flutter-a56234b57df2)
 * [Simple ways to pass to and share data with widgets/pages](https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b)
 
+## gRPC
+* [Flutter ❤ GRPC](https://medium.com/flutter-community/flutter-grpc-810f87612c6d)
+* [Asynchronous Flutter chat client with Go chat server which are powered by gRPC](https://medium.com/flutter-community/tutorial-asynchronous-flutter-chat-client-with-go-chat-server-which-are-powered-by-grpc-simple-ce913066861c)
+
 ## Hummingbird
 * [Hummingbird: Building Flutter for the Web](https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8)
 
