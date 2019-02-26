@@ -151,6 +151,7 @@
 ## Puzzles
 * [Kotlin Academy Puzzles](https://blog.kotlin-academy.com/puzzlers-on-kotlin-academy-week-1-84f42437ee94)
 * [Kotlin Puzzlers](https://github.com/angryziber/kotlin-puzzlers)
+* [Ninety-Nine Kotlin Problems](https://github.com/dkandalov/kotlin-99)
 
 ## Learning
 * [Kotlin for Python developers](https://khan.github.io/kotlin-for-python-developers/#setters-and-getters)
