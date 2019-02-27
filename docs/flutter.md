@@ -12,6 +12,7 @@
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 * [The Flutter Revolution - Recipe for building apps without pain](https://speakerdeck.com/shuaib/the-flutter-revolution-recipe-for-building-apps-without-pain)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+* [How to Create Stateless Widgets](https://medium.com/flutter-io/how-to-create-stateless-widgets-6f33931d859)
 
 ## Getting Started
 * [Practical Flutter: 6 Tips for Newcomers](https://hackernoon.com/practical-flutter-my-personal-6-tips-for-newcomers-dfbe44a29246)
