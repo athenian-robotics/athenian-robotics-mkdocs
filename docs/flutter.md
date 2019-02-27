@@ -48,6 +48,7 @@
 * [Porting a 75,000 line native iOS app to Flutter](https://medium.com/flutter-community/porting-a-75-000-line-native-ios-app-to-flutter-57c6571c57b4)
 * [Flutter — I don’t hate it](https://blog.usejournal.com/flutter-i-dont-hate-it-3e8f7d60733b)
 * [How I developed SpaceX GO! using Flutter](https://medium.com/flutter-community/how-i-developed-spacex-go-using-flutter-aa66e9bf14c3)
+* [Multi vs Cross Platform in the age of Flutter](https://medium.com/snapp-mobile/multi-vs-cross-platform-in-the-age-of-flutter-6e76920028b6)
 
 ## Publishing Apps
 * [How to Publish Your App on App Store and Google Play: A Comprehensive Go-to-Market Guide](https://dzone.com/articles/how-to-publish-your-app-on-app-store-and-google-pl)

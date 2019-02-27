@@ -82,6 +82,7 @@
 * [Data classes aren't (that) magical](https://zsmb.co/data-classes-arent-that-magical)
 * [Curated collection of useful Kotlin 1.3 snippets](https://github.com/IvanMwiruki/30-seconds-of-kotlin)
 * [Effective Kotlin](https://www.youtube.com/watch?v=lU8kafFjUJM)
+* [Kotlin pearls: Lambdas with a Context](https://proandroiddev.com/kotlin-pearls-lambdas-with-a-context-58f26ab2eb1d)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)

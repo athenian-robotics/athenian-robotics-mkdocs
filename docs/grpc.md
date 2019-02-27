@@ -3,6 +3,9 @@
 ## General
 * [Introduction to gRPC](http://www.baeldung.com/grpc-introduction)
 * [gRPC Summary](https://devopedia.org/grpc)
+* [gRPC Description](http://dist-prog-book.com/chapter/1/gRPC.html)
+
+## Helpful Links
 * [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#other-dart)
 
 ## Presentations

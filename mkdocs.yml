@@ -101,6 +101,7 @@ nav:
       - ROS: ev3-ros.md
   - FRC:
     - Networking: frc-networking.md
+  - Robotics: robotics.md
   - CodinGame Tips: codingame.md
   - Hour of Code: hoc.md
   - Nand To Tetris: nand2tetris.md
