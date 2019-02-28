@@ -23,6 +23,8 @@
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
+* [Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#0)
+* [Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html?index=..%2F..index#0)
 
 ## Libraries
 * [kt.dart](https://github.com/passsy/kt.dart)

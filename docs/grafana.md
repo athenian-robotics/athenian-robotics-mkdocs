@@ -21,3 +21,4 @@ grafana-server --config=/usr/local/etc/grafana/grafana.ini --homepath /usr/local
 
 ```
   
+Access the grafana server at: http://localhost:3000
