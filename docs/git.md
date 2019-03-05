@@ -9,6 +9,7 @@
 * [The GitHub Development Workflow](https://itnext.io/the-github-development-workflow-fb48d9bb63f9  )
 * [Simple Rules for Git and Github](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 * [Understanding Git Bisect](https://hackernoon.com/understanding-git-bisect-i-e-use-binary-search-to-find-the-change-that-introduced-a-bug-89489b4c9fa6)
+* [10 Git Commands You Should Know]()
 
 ## Installation
 
@@ -19,10 +20,12 @@ Install git on OSX with:
 brew install git
 ```
 
-### ev3dev and Raspi
-````bash
+### Linux
+
+Install git on Linux with:
+```bash
 sudo apt-get install git
-````
+```
 
 ## GitHub Desktop
 

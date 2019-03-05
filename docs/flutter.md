@@ -17,6 +17,8 @@
 ## Getting Started
 * [Practical Flutter: 6 Tips for Newcomers](https://hackernoon.com/practical-flutter-my-personal-6-tips-for-newcomers-dfbe44a29246)
 * [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
+* [A simplified introduction to Dart and Flutter](https://medium.freecodecamp.org/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3)
+* [Beginning Programming with Dart](https://blog.usejournal.com/beginning-programming-with-dart-beginners-3f0348d8baf8)
 
 ## Intermediate
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
@@ -71,3 +73,4 @@
 * [Flutter Reddit App](https://hackernoon.com/i-love-you-flutter-fd7c30b2047e)
 * [Building Forms with Flutter](https://codingwithjoe.com/building-forms-with-flutter/)
 * [Building a Puzzle Game Using Flutter](https://medium.com/@dragosholban/building-a-puzzle-game-using-flutter-6f629873102d)
+* [A Simple Stopwatch App with Flutter](https://medium.com/@na.nibir/a-simple-stopwatch-app-with-flutter-8b33039ce0d4)
