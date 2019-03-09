@@ -22,6 +22,7 @@
 
 ## Intermediate
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
+* [Flutter Plugins](https://github.com/flutter/plugins)
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
