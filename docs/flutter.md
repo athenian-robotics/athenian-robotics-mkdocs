@@ -55,6 +55,7 @@
 * [Flutter — I don’t hate it](https://blog.usejournal.com/flutter-i-dont-hate-it-3e8f7d60733b)
 * [How I developed SpaceX GO! using Flutter](https://medium.com/flutter-community/how-i-developed-spacex-go-using-flutter-aa66e9bf14c3)
 * [Multi vs Cross Platform in the age of Flutter](https://medium.com/snapp-mobile/multi-vs-cross-platform-in-the-age-of-flutter-6e76920028b6)
+* [Kotlin vs NativeScript vs Flutter - Building the same app in all platforms](https://speakerdeck.com/championswimmer/kotlin-vs-nativescript-vs-flutter-building-the-same-app-in-all-platforms)
 
 ## Publishing Apps
 * [How to Publish Your App on App Store and Google Play: A Comprehensive Go-to-Market Guide](https://dzone.com/articles/how-to-publish-your-app-on-app-store-and-google-pl)

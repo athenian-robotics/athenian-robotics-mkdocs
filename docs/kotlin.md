@@ -84,6 +84,8 @@
 * [Effective Kotlin](https://www.youtube.com/watch?v=lU8kafFjUJM)
 * [Kotlin pearls: Lambdas with a Context](https://proandroiddev.com/kotlin-pearls-lambdas-with-a-context-58f26ab2eb1d)
 * [Destructuring Declarations](https://www.kotlindevelopment.com/destructuring-declarations/)
+* [Lazy Properties](https://www.kotlindevelopment.com/lazy-property/)
+* [Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable](https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
