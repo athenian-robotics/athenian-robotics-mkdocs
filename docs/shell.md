@@ -18,3 +18,4 @@
 * [How to quickly give users sudo privileges in Linux](https://www.techrepublic.com/article/how-to-quickly-give-users-sudo-privileges-in-linux/)
 * [A minimalist guide to tmux](https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa)
 * [An Awk tutorial by Example](https://gregable.com/2010/09/why-you-should-know-just-little-awk.html)
+* [A top-down introduction to ssh](https://medium.freecodecamp.org/a-top-down-introduction-to-ssh-965f4fadd32e)
