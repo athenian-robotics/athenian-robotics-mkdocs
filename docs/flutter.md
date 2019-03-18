@@ -19,6 +19,7 @@
 * [Advanced Flutter Layout — Flow](https://medium.com/flutter-community/advanced-flutter-layout-flow-32300bf3b7b3)
 * [A simplified introduction to Dart and Flutter](https://medium.freecodecamp.org/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3)
 * [Beginning Programming with Dart](https://blog.usejournal.com/beginning-programming-with-dart-beginners-3f0348d8baf8)
+* [Introduction to Dart](https://www.youtube.com/watch?v=8F2uemqLwvE)
 
 ## Intermediate
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
