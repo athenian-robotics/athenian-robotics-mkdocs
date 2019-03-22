@@ -20,6 +20,7 @@
 * [A simplified introduction to Dart and Flutter](https://medium.freecodecamp.org/https-medium-com-rahman-sameeha-whats-flutter-an-intro-to-dart-6fc42ba7c4a3)
 * [Beginning Programming with Dart](https://blog.usejournal.com/beginning-programming-with-dart-beginners-3f0348d8baf8)
 * [Introduction to Dart](https://www.youtube.com/watch?v=8F2uemqLwvE)
+* [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 
 ## Intermediate
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
@@ -63,6 +64,9 @@
 * [How to Submit An App to Apple: From No Account to App Store – Part 1](https://www.raywenderlich.com/120-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-1)
 * [How to Submit An App to Apple: From No Account to App Store – Part 2](https://www.raywenderlich.com/119-how-to-submit-an-app-to-apple-from-no-account-to-app-store-part-2)
 * [How to Publish Your App on Apple’s App Store in 2018](https://medium.com/@the_manifest/how-to-publish-your-app-on-apples-app-store-in-2018-f76f22a5c33a)
+
+## Desktop Apps
+* [Desktop Flutter Apps](https://medium.com/@eibaan_54644/desktop-flutter-apps-8602dac54f68)
 
 ## Projects
 * [UI Challenge: Piano Tiles in Flutter](https://medium.com/flutter-community/ui-challenge-piano-tiles-in-flutter-19bc56139fda)
