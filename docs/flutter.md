@@ -12,7 +12,7 @@
 * [Pitching Flutter to your company or client](https://medium.com/flutter-io/https-medium-com-flutter-io-pitching-flutter-2d4f494e47d1)
 * [The Flutter Revolution - Recipe for building apps without pain](https://speakerdeck.com/shuaib/the-flutter-revolution-recipe-for-building-apps-without-pain)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
-* [How to Create Stateless Widgets](https://medium.com/flutter-io/how-to-create-stateless-widgets-6f33931d859)
+* [MythBuster: 10 Rumors about Flutter](https://medium.com/ideas-by-idean/mythbuster-10-rumors-about-flutter-why-its-not-worse-than-android-kotlin-25f54295440)
 
 ## Getting Started
 * [Practical Flutter: 6 Tips for Newcomers](https://hackernoon.com/practical-flutter-my-personal-6-tips-for-newcomers-dfbe44a29246)
@@ -23,6 +23,8 @@
 * [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 
 ## Intermediate
+* [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+* [How to Create Stateless Widgets](https://medium.com/flutter-io/how-to-create-stateless-widgets-6f33931d859)
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
 * [Flutter Plugins](https://github.com/flutter/plugins)
 

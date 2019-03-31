@@ -101,7 +101,7 @@ nav:
       - ROS: ev3-ros.md
   - FRC:
     - Networking: frc-networking.md
-  - Battlecode: battlecode.md
+  - Battlesnake: battlesnake.md
   - Robotics: robotics.md
   - CodinGame Tips: codingame.md
   - Hour of Code: hoc.md

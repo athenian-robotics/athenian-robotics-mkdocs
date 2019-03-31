@@ -1,8 +1,9 @@
-# BattleSnake Notes
+# Battlesnake Notes
 
 ## Getting Started
 * [Starter Snakes](https://github.com/topics/starter-snake)
-* [ngrok](https://ngrok.com)
+* [Battlesnake Quickstart](https://github.com/pambrose/battlesnake-quickstart)
+* [Battlesnake Quickstart Snake Examples](https://github.com/pambrose/battlesnake-examples)
 
-## Helpful tools
-* [JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)
+## Helpful Tools
+* [ngrok](https://ngrok.com)
