@@ -9,6 +9,7 @@
 * [argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Developing Python application: Virtual environment](https://hackernoon.com/developing-python-application-virtual-environment-95fa8ae5b098)
+* [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
 
 ## Cool Projects
 * [ASCII-generator](https://github.com/vietnguyen91/ASCII-generator)
