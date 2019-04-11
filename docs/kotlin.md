@@ -137,6 +137,8 @@
 * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 * [Retrofit meets coroutines](https://zsmb.co/retrofit-meets-coroutines/)
 * [Fresh Async With Kotlin](https://www.youtube.com/watch?v=hb0hfHVWCS0)
+* [Playing With Kotlin Coroutines For Best Practices](https://codinginfinite.com/kotlin-coroutines-best-practices-example/)
+* [Advanced Kotlin Coroutines tips and tricks](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
