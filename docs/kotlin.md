@@ -87,6 +87,7 @@
 * [Lazy Properties](https://www.kotlindevelopment.com/lazy-property/)
 * [Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable](https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f)
 * [Understanding Kotlin Sealed Classes](https://proandroiddev.com/understanding-kotlin-sealed-classes-65c0adad7015)
+* [Kotlin Generics and Variance](https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
