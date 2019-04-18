@@ -53,6 +53,7 @@ nav:
     - Jupyter Notebooks: jupyter.md
     - Docker: docker.md
     - Kubernetes: kubernetes.md
+    - Istio: istio.md
     - gRPC: grpc.md
     - OpenCV: opencv.md
     - GraphQL: graphql.md
