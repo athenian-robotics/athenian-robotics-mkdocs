@@ -9,7 +9,8 @@
 * [The GitHub Development Workflow](https://itnext.io/the-github-development-workflow-fb48d9bb63f9  )
 * [Simple Rules for Git and Github](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 * [Understanding Git Bisect](https://hackernoon.com/understanding-git-bisect-i-e-use-binary-search-to-find-the-change-that-introduced-a-bug-89489b4c9fa6)
-* [10 Git Commands You Should Know]()
+* [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+* [Git Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 
 ## Installation
 
