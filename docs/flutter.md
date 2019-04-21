@@ -44,6 +44,7 @@
 * [Adding a border to a widget](https://medium.com/@studymongolian/adding-a-border-to-a-widget-in-flutter-d387bc5d7cff)
 * [The Power of WebViews in Flutter](https://medium.com/flutter-io/the-power-of-webviews-in-flutter-a56234b57df2)
 * [Simple ways to pass to and share data with widgets/pages](https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b)
+* [SizedBox](https://www.youtube.com/watch?v=EHPu_DzRfqA)
 
 ## gRPC
 * [Flutter ❤ GRPC](https://medium.com/flutter-community/flutter-grpc-810f87612c6d)
