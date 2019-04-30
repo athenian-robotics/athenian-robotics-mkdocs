@@ -8,6 +8,7 @@
 * [How To Install Docker on Ubuntu 16.04](https://medium.com/@Grigorkh/how-to-install-docker-on-ubuntu-16-04-3f509070d29c)
 * [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
 * [Running a flask application in docker](https://medium.com/@rokinmaharjan/running-a-flask-application-in-docker-80191791e143)
+* [Docker 101: Fundamentals and Practice](https://medium.freecodecamp.org/docker-101-fundamentals-and-practice-edb047b71a51)
 
 ## Kubernetes
 * [Kubernetes The Easy Way](https://www.youtube.com/watch?v=kOa_llowQ1c)
