@@ -7,3 +7,4 @@
 * [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html)
 * [Vim Adventures](https://vim-adventures.com)
 * [Vim for beginners](https://habr.com/en/post/440130/)
+* [Intermediate vim](https://dn.ht/intermediate-vim/)
