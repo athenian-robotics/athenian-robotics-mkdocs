@@ -12,6 +12,7 @@
 * [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
 * [Git Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 * [Elegant READMEs](https://www.yegor256.com/2019/04/23/elegant-readme.html)
+* [git rebase in depth](https://git-rebase.io)
 
 ## Installation
 
