@@ -178,3 +178,4 @@
 
 ## Videos
 * [Kotlin Coroutines and Kotlin 1.3 Q&A](https://www.youtube.com/watch?v=FAhR_sqlUy4)
+* [Kotlin Tutorial](https://www.youtube.com/watch?v=H_oGi8uuDpA)
