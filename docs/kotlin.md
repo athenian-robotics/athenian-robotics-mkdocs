@@ -165,6 +165,7 @@
 
 ## Learning
 * [Kotlin for Python developers](https://khan.github.io/kotlin-for-python-developers/#setters-and-getters)
+* [Kotlin Learning Resources](https://www.techrepublic.com/article/how-to-learn-kotlin-a-resources-guide-for-developers/)
 
 ## Bootcamps 
 * [Kotlin Bootcamp for Programmers by Google](https://in.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
