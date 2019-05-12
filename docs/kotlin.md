@@ -146,6 +146,7 @@
 * [Kotlin Cheatsheet](https://kotlinexpertise.com/wp-content/uploads/2018/05/dzone_refcard_kotlin.pdf)
 * [Yet Another Cheatsheet](http://kotlinacademy.org/wp-content/uploads/2018/05/Kotlin-Cheat-Sheet.pdf)
 * [http://kt.academy/Kotlin_Coroutines_Cheat_Sheet.pdf](http://kt.academy/Kotlin_Coroutines_Cheat_Sheet.pdf)
+* [Musings: What the tech world saw in Kotlin](https://hackernoon.com/musings-what-the-tech-world-saw-in-kotlin-2b8be7b53bc9)
 
 ## Kotlin Warnings
 * [Kotlin Pitfalls](https://medium.freecodecamp.org/kotlin-pitfalls-and-how-to-avoid-them-7b0d3a2109ad)
