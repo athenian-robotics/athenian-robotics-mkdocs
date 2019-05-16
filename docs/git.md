@@ -13,6 +13,7 @@
 * [Git Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 * [Elegant READMEs](https://www.yegor256.com/2019/04/23/elegant-readme.html)
 * [git rebase in depth](https://git-rebase.io)
+* [Git basics - the only introduction you'll ever need!](https://areknawo.com/git-basics-the-only-introduction-you-will-ever-need/)
 
 ## Installation
 
