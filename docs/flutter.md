@@ -29,6 +29,7 @@
 * [Flutter Plugins](https://github.com/flutter/plugins)
 * [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 * [Everything you need to know about Flutter page route transition](https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823)
+* [Understanding Streams in Flutter](https://medium.com/flutter-community/understanding-streams-in-flutter-dart-827340437da6)
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
