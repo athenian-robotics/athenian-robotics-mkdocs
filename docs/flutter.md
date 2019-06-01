@@ -27,6 +27,8 @@
 * [How to Create Stateless Widgets](https://medium.com/flutter-io/how-to-create-stateless-widgets-6f33931d859)
 * [Flutter Threading: Isolates, Future, Async And Await](https://buildflutter.com/flutter-threading-isolates-future-async-and-await/)
 * [Flutter Plugins](https://github.com/flutter/plugins)
+* [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+* [Everything you need to know about Flutter page route transition](https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823)
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
