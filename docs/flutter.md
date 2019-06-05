@@ -13,6 +13,7 @@
 * [The Flutter Revolution - Recipe for building apps without pain](https://speakerdeck.com/shuaib/the-flutter-revolution-recipe-for-building-apps-without-pain)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [MythBuster: 10 Rumors about Flutter](https://medium.com/ideas-by-idean/mythbuster-10-rumors-about-flutter-why-its-not-worse-than-android-kotlin-25f54295440)
+* [Why I think Flutter is the future of mobile app development](https://www.freecodecamp.org/news/why-i-think-flutter-is-the-future-of-mobile-app-development-768332b73c0d/)
 
 ## Getting Started
 * [Practical Flutter: 6 Tips for Newcomers](https://hackernoon.com/practical-flutter-my-personal-6-tips-for-newcomers-dfbe44a29246)
