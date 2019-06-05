@@ -31,6 +31,7 @@
 * [Everything you need to know about Flutter page route transition](https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823)
 * [Understanding Streams in Flutter](https://medium.com/flutter-community/understanding-streams-in-flutter-dart-827340437da6)
 * [Flutter BLoC Patter Tutorial](https://www.youtube.com/watch?v=oxeYeMHVLII)
+* [Futures in Flutter](https://www.filledstacks.com/snippet/futures-in-flutter-for-beginners/)
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
