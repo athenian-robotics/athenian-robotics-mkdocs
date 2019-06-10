@@ -4,6 +4,7 @@
     
     * [How to Think Like a Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
     * [Sage advice](http://norvig.com/21-days.html) on learning how to program.
+    * [Back to Basics](https://www.joelonsoftware.com/2001/12/11/back-to-basics/)
 
 ## Visual Programming 
 * [Makecode](https://www.microsoft.com/en-us/makecode)
