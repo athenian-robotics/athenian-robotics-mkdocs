@@ -10,6 +10,7 @@
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Developing Python application: Virtual environment](https://hackernoon.com/developing-python-application-virtual-environment-95fa8ae5b098)
 * [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
+* [Python built-ins worth learning](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 
 ## Cool Projects
 * [ASCII-generator](https://github.com/vietnguyen91/ASCII-generator)
