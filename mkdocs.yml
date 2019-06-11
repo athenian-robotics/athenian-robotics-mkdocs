@@ -109,7 +109,7 @@ nav:
   - Education:
     - Robots: education-robots.md
     - Software: education-software.md
-  - CS Professional Development: cspd.md
+  - Overview: overview.md
   - Miscellaneous: miscellaneous.md
 
 theme:

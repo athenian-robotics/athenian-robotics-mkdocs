@@ -12,7 +12,7 @@ Docs are [here](https://circuitpython.readthedocs.io/projects/trellism4/en/lates
 
 3) Install the NeoTrellis CircuitPython library on your laptop as described 
 [here](https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4). \
-This will allow you to review the source code from PyCharm.
+This will allow you to review the source code in PyCharm.
 
 4) Install the ADXL34x accelerometer library on your laptop with:
 

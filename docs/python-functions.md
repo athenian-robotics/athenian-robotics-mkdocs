@@ -6,5 +6,5 @@
 
 ??? example "Functions"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Functions?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Functions" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
 

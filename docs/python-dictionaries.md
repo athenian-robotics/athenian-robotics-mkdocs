@@ -6,12 +6,12 @@
     
 ??? example "Dictionaries" 
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Dictionaries?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Dictionaries" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
        
 ??? example "Rock Paper Scissors (with dictionary)"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Rock-Paper-Scissors-with-dictionary?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Rock-Paper-Scissors-with-dictionary" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
     
 ??? example "Rock Paper Scissors Distribution (with dictionary)"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/RandomDistributionWithMap?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/RandomDistributionWithMap" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>

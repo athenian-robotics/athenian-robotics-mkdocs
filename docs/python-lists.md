@@ -6,16 +6,16 @@
 
 ??? example "Lists"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Lists?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Lists" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
 
 ??? example "Rock Paper Scissors (with ifs)"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Rock-Paper-Scissors-with-ifs?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Rock-Paper-Scissors-with-ifs" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
     
 ??? example "Rock Paper Scissors Distribution (with list)"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/RandomDistributionWithList?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/RandomDistributionWithList" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
     
 ??? example "Matplotlib Example"
 
-    <iframe height="600px" width="100%" src="https://repl.it/@pambrose/Matplotlib-Example?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+    <a href="https://repl.it/@pambrose/Matplotlib-Example" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals" target="_blank">repl.it code</a>
