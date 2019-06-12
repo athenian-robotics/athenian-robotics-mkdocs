@@ -11,10 +11,11 @@
 
 
 ## Transition to Code
-* [CodeHS Karel the Dog](https://codehs.com/editor/hoc/video/540744/3832/2640?)
-* [CodeHS Python Turtle Graphics with Tracy the Turtle](https://codehs.com/hoc_turtle) 
+* [CodeHS Courses](https://codehs.com/course/catalog?ms=false&hs=false&tab=all)
 * [Sign up](https://codehs.com/go/AB04E) for ``Intro to Karel`` (Class code: AB04E) 
 * [Sign up](https://codehs.com/go/F5BA9) for ``Intro to Python with Tracy the Turtle`` (Class code: F5BA9)
+* [CodeHS Karel the Dog](https://codehs.com/editor/hoc/video/540744/3832/2640?)
+* [CodeHS Python Turtle Graphics with Tracy the Turtle](https://codehs.com/hoc_turtle) 
 
 ## repl.it Overview
 * REPL
