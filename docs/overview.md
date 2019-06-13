@@ -21,7 +21,6 @@
 * [CodeHS Karel the Dog](https://codehs.com/editor/hoc/video/540744/3832/2640?)
 * [CodeHS Python Turtle Graphics with Tracy the Turtle](https://codehs.com/hoc_turtle) 
 
-## repl.it Overview
 
 ## Learning Python
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
