@@ -9,8 +9,11 @@
 * [Scratch](https://scratch.mit.edu), [CS First](https://csfirst.withgoogle.com) and [CS First Curriculum](https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html)
 * [Snap](https://snap.berkeley.edu)
 
+## Computational Thinking
+* [What is Computational Thinking?](https://www.youtube.com/watch?v=sxUJKn6TJOI)
 
 ## Transition to Code
+* [CodeHS Curriculum Pathway](https://codehs.com/info/curriculum/pathways/6-12)
 * [CodeHS Courses](https://codehs.com/course/catalog?ms=false&hs=false&tab=all)
 * [Sign up](https://codehs.com/go/AB04E) for ``Intro to Karel`` (Class code: AB04E) 
 * [Sign up](https://codehs.com/go/F5BA9) for ``Intro to Python with Tracy the Turtle`` (Class code: F5BA9)
@@ -57,3 +60,5 @@
 ## Misc Links
 * [Teach Girls Bravery, not Perfection](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection?language=en)
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+* [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
+* [CodeCombat CEO](http://www.nickwinter.net)
