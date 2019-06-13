@@ -11,6 +11,7 @@
 
 ## Computational Thinking
 * [What is Computational Thinking?](https://www.youtube.com/watch?v=sxUJKn6TJOI)
+* [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
 
 ## Transition to Code
 * [CodeHS Curriculum Pathway](https://codehs.com/info/curriculum/pathways/6-12)
