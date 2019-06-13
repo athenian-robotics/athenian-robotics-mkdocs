@@ -62,3 +62,5 @@
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
 * [CodeCombat CEO](http://www.nickwinter.net)
+* [MkDocs](http://www.mkdocs-demo.org)
+* [RoboMaster S1 – Intelligent Educational Robot](https://www.dji.com/robomaster-s1)
