@@ -57,6 +57,12 @@
 * [Python Hardware](https://circuitpython.org/downloads)
 * OpenCV
 
+## The Future
+* [Fun Ride?](https://twitter.com/holdmyale/status/1139438942158299136?cn=ZmxleGlibGVfcmVjc18y)
+* [Real Talk?](https://www.youtube.com/watch?v=DWK_iYBl8cA)
+* From [Bad Lip Reading](https://www.youtube.com/watch?v=8EsUNOIYyKg) to [this](https://www.instagram.com/p/ByaVigGFP2U/) 
+by way of [this technology](https://www.youtube.com/watch?v=0ybLCfVeFL4)
+
 ## Misc Links
 * [Teach Girls Bravery, not Perfection](https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection?language=en)
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
@@ -64,3 +70,4 @@
 * [CodeCombat CEO](http://www.nickwinter.net)
 * [MkDocs](http://www.mkdocs-demo.org)
 * [RoboMaster S1 – Intelligent Educational Robot](https://www.dji.com/robomaster-s1)
+* [Create 3D games with friends, no experience required](https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/)
