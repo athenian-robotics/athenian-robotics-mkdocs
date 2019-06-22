@@ -93,6 +93,7 @@
 * [A Simple Stopwatch App with Flutter](https://medium.com/@na.nibir/a-simple-stopwatch-app-with-flutter-8b33039ce0d4)
 * [Tic Tac Toe](https://github.com/nonybrighto/flutter_firebase_tic_tac_toe)
 * [Flutter Samples](https://github.com/diegoveloper/flutter-samples)
+* [Real-time Object Detection in Flutter](https://blog.usejournal.com/real-time-object-detection-in-flutter-b31c7ff9ef96)
 
 ## Tips and Tricks
 * [Including more than one widget in Dart 2.3 collection](https://groups.google.com/forum/?linkId=68981067#!topic/flutter-dev/j4i-ZJljjBg)

@@ -110,6 +110,7 @@ nav:
     - Robots: education-robots.md
     - Software: education-software.md
   - Overview: overview.md
+  - Advice: advice.md
   - Miscellaneous: miscellaneous.md
 
 theme:
