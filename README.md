@@ -15,6 +15,6 @@
 | `make deploy`         | Deploy content to athenian-robotics.github.io |
 
 ## Additional Athenian GitHub Organizations  
-* [Athenain Programming](https://github.com/athenian-programming)
+* [Athenian Programming](https://github.com/athenian-programming)
 * [Athenian FLL](http://athenian-fll.org)
 
