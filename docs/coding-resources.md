@@ -16,14 +16,14 @@
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 * [Sign up](http://codehs.com/go/F1782) for ``AP Computer Science in Java`` (Class code: F1782) 
 
+## Programming Enviroments
+* [Code Monkey](https://www.playcodemonkey.com)
+* [CodinGame](https://www.codingame.com)
+
 ## Python Resources
 * [Learning Python](../learning-python/)
 
-## Github
-* [GitHub Learning Lab](https://lab.github.com)
-
 ## Programming Competitions
-* [CodinGame](https://www.codingame.com)
 * [Hacker Rank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
 
