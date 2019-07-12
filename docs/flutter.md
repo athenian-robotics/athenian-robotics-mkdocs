@@ -2,6 +2,7 @@
 
 * [Flutter](https://flutter.io)
 * [Dart](https://www.dartlang.orgs)
+* [Flutter: Understanding Counter App](https://medium.com/flutter-community/flutter-understanding-counter-app-ca89de564170)
 * [13 Reasons Why you should choose/ consider to move to Flutter](https://medium.com/flutter-community/13-reasons-why-you-should-choose-consider-to-move-to-flutter-in-2019-24323ee259c1)
 * [Flutter — 5 reasons why you may love it](https://hackernoon.com/flutter-5-reasons-why-you-may-love-it-55021fdbf1aa)
 * [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
