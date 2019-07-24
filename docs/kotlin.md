@@ -88,6 +88,7 @@
 * [Kotlin pearls: It’s an Object… It’s a Function… It’s an Invokable](https://proandroiddev.com/kotlin-pearls-3-its-an-object-it-s-a-function-it-s-an-invokable-bc4bfed2e63f)
 * [Understanding Kotlin Sealed Classes](https://proandroiddev.com/understanding-kotlin-sealed-classes-65c0adad7015)
 * [Kotlin Generics and Variance](https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/)
+* [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
@@ -131,8 +132,6 @@
 * [Understanding suspend function of Kotlin Coroutines](https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed)
 * [Kotlin Coroutines Guide](https://kotlinexpertise.com/kotlin-coroutines-guide/)
 * [Understanding suspending functions in Kotlin](https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aae4bfd9991)
-* [Creating Koltlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
-* [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
 * [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
 * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
 * [Retrofit meets coroutines](https://zsmb.co/retrofit-meets-coroutines/)
