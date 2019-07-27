@@ -118,6 +118,7 @@
 ## Coroutines
 * [Introduction to Kotlin Coroutines](https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html)
 * [An introduction to Kotlin Coroutines](https://antonis.me/2018/12/12/an-introduction-to-kotlin-coroutines/)
+* [Kotlin Coroutines Guide](https://kotlinexpertise.com/kotlin-coroutines-guide/)
 * [Coroutines Guide](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
 * [Kotlin Coroutines: Basic Terminologies & Usage](https://android.jlelse.eu/coroutines-basic-terminologies-and-usage-b4242bd1b2a4)
 * [KotlinConf 2017 - Introduction to Coroutines](https://www.youtube.com/watch?v=_hfBv0a09Jc)
@@ -129,8 +130,6 @@
 * [Differentiating Thread and Coroutine in Kotlin](https://medium.com/@elye.project/differentiating-thread-and-coroutine-launch-runblocking-in-kotlin-28219506c002)
 * [Difference between a Coroutine and a Thread](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 * [An Introduction to Cooperative Multitasking with Kotlin Coroutines](https://blog.pronghorn.tech/cooperative-multitasking-with-kotlin-coroutines/)
-* [Understanding suspend function of Kotlin Coroutines](https://medium.com/@elye.project/understanding-suspend-function-of-coroutines-de26b070c5ed)
-* [Kotlin Coroutines Guide](https://kotlinexpertise.com/kotlin-coroutines-guide/)
 * [Understanding suspending functions in Kotlin](https://medium.com/@desaismital/understanding-suspending-functions-in-kotlin-3aae4bfd9991)
 * [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e)
 * [How to make sense of Kotlin coroutines](https://proandroiddev.com/how-to-make-sense-of-kotlin-coroutines-b666c7151b93)
