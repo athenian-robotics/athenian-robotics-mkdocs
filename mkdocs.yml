@@ -109,6 +109,7 @@ nav:
   - Education:
     - Robots: education-robots.md
     - Software: education-software.md
+    - Teaching: teaching.md
   - Overview: overview.md
   - Advice: advice.md
   - Miscellaneous: miscellaneous.md
