@@ -89,6 +89,7 @@
 * [Understanding Kotlin Sealed Classes](https://proandroiddev.com/understanding-kotlin-sealed-classes-65c0adad7015)
 * [Kotlin Generics and Variance](https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/)
 * [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
+* [The Kotlin Type Hierarchy From Top to Bottom](https://speakerdeck.com/npryce/the-kotlin-type-hierarchy-from-top-to-bottom)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
@@ -161,6 +162,7 @@
 * [Kotlin Academy Puzzles](https://blog.kotlin-academy.com/puzzlers-on-kotlin-academy-week-1-84f42437ee94)
 * [Kotlin Puzzlers](https://github.com/angryziber/kotlin-puzzlers)
 * [Ninety-Nine Kotlin Problems](https://github.com/dkandalov/kotlin-99)
+* [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle)
 
 ## Learning
 * [Kotlin for Python developers](https://khan.github.io/kotlin-for-python-developers/#setters-and-getters)
