@@ -11,6 +11,10 @@
 * [CircuitPython Setup](https://learn.adafruit.com/adafruit-feather-m0-express-designed-for-circuit-python-circuitpython/circuitpython-setup)
 * [CircuitPython Examples](https://github.com/athenian-robotics/circuitpython-examples)
 
+## VS Code Plugin
+* [Adafruit and Microsoft Garage interns team up to create Device Simulator Express](https://www.microsoft.com/en-us/garage/blog/2019/08/adafruit-and-microsoft-garage-interns-team-up-to-create-device-simulator-express/)
+* [Device Simulator Express, a Microsoft Garage project](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress)
+
 ## Projects
 
 * [Laser Tag](https://learn.adafruit.com/circuit-playground-express-laser-tag?view=all&embeds=allow)
