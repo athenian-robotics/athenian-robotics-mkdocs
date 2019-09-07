@@ -90,6 +90,7 @@
 * [Kotlin Generics and Variance](https://kotlinexpertise.com/kotlin-generics-and-variance-vs-java/)
 * [Declarative Pipelines in Kotlin](https://medium.com/@desaismital/declarative-pipelines-in-kotlin-b9e18e77f2c5)
 * [The Kotlin Type Hierarchy From Top to Bottom](https://speakerdeck.com/npryce/the-kotlin-type-hierarchy-from-top-to-bottom)
+* [Kotlin Explained: Property delegation](https://medium.com/kotlin-arsenal/kotlin-explained-property-delegation-c2d92ff9d7fc)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)

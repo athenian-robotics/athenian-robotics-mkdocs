@@ -7,3 +7,4 @@
 * [JupyterLap Firsat Impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
 * [Histograms and Density Plots in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
 * [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
+* [Bring your Jupyter Notebook to life with interactive widgets](https://towardsdatascience.com/bring-your-jupyter-notebook-to-life-with-interactive-widgets-bc12e03f0916)
