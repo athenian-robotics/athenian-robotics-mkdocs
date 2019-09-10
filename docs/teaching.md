@@ -7,3 +7,6 @@
 
 ## Blogs
 * [Mike Zamansky](https://cestlaz.github.io)
+
+## Videos
+* [Shaping our children's education in computing" by Simon Peyton Jones](https://www.youtube.com/watch?v=y-xgWLYQc4g)
