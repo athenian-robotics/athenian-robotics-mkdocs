@@ -33,6 +33,7 @@
 * [Kotlin for Python Developers](https://khan.github.io/kotlin-for-python-developers/)
 * [8 Kotlin Features Every Java Developer Should Know In 2019](https://www.mobileappdaily.com/2018/12/3/kotlin-features-for-java-developers)
 * [Guide to Kotlin](https://github.com/Zhuinden/guide-to-kotlin)
+* [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
 
 ## Intermediate
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
