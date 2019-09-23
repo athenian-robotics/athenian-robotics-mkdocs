@@ -112,11 +112,10 @@
 * [Generics in Kotlin](http://www.baeldung.com/kotlin-generics)
 
 ## DSLs
+* [Creating Kotlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
 * [Writing DSLs in Kotlin (part 1)](https://proandroiddev.com/writing-dsls-in-kotlin-part-1-7f5d2193f277)
 * [Writing DSLs in Kotlin (part 2)](https://proandroiddev.com/writing-dsls-in-kotlin-part-2-cd9dcd0c4715)
 * [Building blocks of a Kotlin DSL](https://www.kotlindevelopment.com/kotlin-dsl/)
-* [Kotlin DSL Everywhere](https://proandroiddev.com/kotlin-dsl-everywhere-de2994ef3eb0)
-* [Creating Kotlin DSLs](https://www.grokkingandroid.com/creating-kotlin-dsls/)
 
 ## Coroutines
 * [Introduction to Kotlin Coroutines](https://kotlinlang.org/docs/tutorials/coroutines-basic-jvm.html)
@@ -140,6 +139,9 @@
 * [Fresh Async With Kotlin](https://www.youtube.com/watch?v=hb0hfHVWCS0)
 * [Playing With Kotlin Coroutines For Best Practices](https://codinginfinite.com/kotlin-coroutines-best-practices-example/)
 * [Advanced Kotlin Coroutines tips and tricks](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
+
+## Detekt
+* [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule] (https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
 
 ## Summaries
 * [Learn Kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
