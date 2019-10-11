@@ -50,6 +50,7 @@ nav:
     - Software Services: services.md
     - Git: git.md
     - Jupyter Notebooks: jupyter.md
+    - Jupyter Options: jupyter-options.md
     - Docker: docker.md
     - Kubernetes: kubernetes.md
     - Istio: istio.md
