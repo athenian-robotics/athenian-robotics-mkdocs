@@ -21,7 +21,5 @@
 ## Setup
 Start a local server with:
 ```bash
-
 etcd --listen-client-urls=http://localhost:2379 --advertise-client-urls=http://localhost:2379
-
 ```
