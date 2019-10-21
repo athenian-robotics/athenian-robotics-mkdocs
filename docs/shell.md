@@ -13,7 +13,7 @@
 
 ## Related items
 * [Cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
-* [Afraid of Makefiles? Don't be!](https://matthias-endler.de/2017/makefiles/)
+* [Afraid of Makefiles? Don't be!](https://endler.dev/2017/makefiles/)
 * [DNS: The Good Parts](https://www.petekeen.net/dns-the-good-parts)
 * [How to quickly give users sudo privileges in Linux](https://www.techrepublic.com/article/how-to-quickly-give-users-sudo-privileges-in-linux/)
 * [A minimalist guide to tmux](https://medium.com/actualize-network/a-minimalist-guide-to-tmux-13675fb160fa)
