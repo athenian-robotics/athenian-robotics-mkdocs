@@ -142,6 +142,10 @@
 * [Advanced Kotlin Coroutines tips and tricks](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
 * [Exceptional Exceptions for Coroutines made easy Part 1](https://medium.com/the-kotlin-chronicle/coroutine-exceptions-3378f51a7d33)
 * [Exceptional Exceptions for Coroutines made easy Part 2](https://medium.com/the-kotlin-chronicle/coroutine-exceptions-supervision-15056802998b)
+* [Notes on learning Kotlin coroutines](https://medium.com/@FerRaviola/coroutines-gotchas-494a0e425a24)
+* [Kotlin Coroutines Part 1](https://medium.com/better-programming/kotlin-coroutines-for-beginners-a54d7fedb206)
+* [Kotlin Coroutines Part 2](https://medium.com/better-programming/kotlin-coroutines-for-beginners-4ba32909b509)
+
 
 ## Detekt
 * [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule] (https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
