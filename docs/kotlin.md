@@ -140,6 +140,8 @@
 * [Fresh Async With Kotlin](https://www.youtube.com/watch?v=hb0hfHVWCS0)
 * [Playing With Kotlin Coroutines For Best Practices](https://codinginfinite.com/kotlin-coroutines-best-practices-example/)
 * [Advanced Kotlin Coroutines tips and tricks](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
+* [Exceptional Exceptions for Coroutines made easy Part 1](https://medium.com/the-kotlin-chronicle/coroutine-exceptions-3378f51a7d33)
+* [Exceptional Exceptions for Coroutines made easy Part 2](https://medium.com/the-kotlin-chronicle/coroutine-exceptions-supervision-15056802998b)
 
 ## Detekt
 * [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule] (https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
