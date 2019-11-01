@@ -36,6 +36,7 @@
 * [Understanding Streams in Flutter](https://medium.com/flutter-community/understanding-streams-in-flutter-dart-827340437da6)
 * [Flutter BLoC Patter Tutorial](https://www.youtube.com/watch?v=oxeYeMHVLII)
 * [Futures in Flutter](https://www.filledstacks.com/snippet/futures-in-flutter-for-beginners/)
+* [i18n for Flutter](https://medium.com/flutter-community/i18n-extension-flutter-b966f4c65df9)
 
 ## Tutorials
 * [Flutter Crash Course](https://fluttercrashcourse.com)
