@@ -8,6 +8,7 @@
 * [How to Choose a 3D Vision Technology](http://carnegierobotics.com/news/2017/8/25/how-to-choose-a-3d-vision-technology)
 * [TRANSFORM - Amazing Technology Invented By MIT](https://www.youtube.com/watch?v=lCARHatJQJA)
 * [The History of Unix, Rob Pike](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
+* [Programming Idioms](https://www.programming-idioms.org/about#about-block-all-idioms)
 
 ## Industry Posts
 * [Evolution of a Software Engineer](https://medium.com/@bfil/evolution-of-a-software-engineer-a9f88531084)
