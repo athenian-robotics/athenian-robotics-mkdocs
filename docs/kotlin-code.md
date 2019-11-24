@@ -1,4 +1,4 @@
-# This is a test of embedding Kotlin code13
+# Embedded Kotlin code example
 
 <pre class="kotlin-code" theme="idea" indent="4" style="padding: 36px 0;"><code>
 
