@@ -4,7 +4,9 @@
 
 fun main() {
 //sampleStart
-    println("Let's Kotlin!")
+    (0..10).forEach {
+        println("Let's Kotlin!")
+    }
 //sampleEnd
 }
 
