@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8c3e891f-cbec-4599-9e06-53f6046d3dd1/deploy-status)](https://app.netlify.com/sites/athenian-robotics/deploys)
+
 ## Setup
 1. Clone the [athenian-robotics-mkdocs](https://github.com/athenian-robotics/athenian-robotics-mkdocs) and [athenian-robotics.github.io](https://github.com/athenian-robotics/athenian-robotics.github.io) repos.
 2. Install [MkDocs](https://www.mkdocs.org).
