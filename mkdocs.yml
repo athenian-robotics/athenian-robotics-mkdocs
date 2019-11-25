@@ -118,7 +118,6 @@ nav:
 
 theme:
   name: 'material'
-  custom_dir: 'custom'
   # Don't include MkDocs' JavaScript
   include_search_page: false
   search_index_only: true
