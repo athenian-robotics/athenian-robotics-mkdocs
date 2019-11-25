@@ -26,7 +26,7 @@
 
 ## repl.it
 * [repl.it Homepage](https://repl.it)
-* [repl.it Exercises](http://www.athenian-robotics.org/python-basics/)
+* [repl.it Exercises](https://www.athenian-robotics.org/python-basics/)
 
 
 
