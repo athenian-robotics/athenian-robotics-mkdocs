@@ -5,6 +5,7 @@
 * [Run Kubernetes Locally](https://github.com/kubernetes/minikube)
 * [Creating a Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 * [Service Discovery](http://kubernetesbyexample.com/sd/)
+* [Kubernetes YAML Syntax](https://medium.com/better-programming/understanding-kubernetes-yaml-syntax-83359d33f9c2)
 
 ## Commands
 * kubectl cluster-info
