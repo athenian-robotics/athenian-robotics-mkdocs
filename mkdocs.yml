@@ -102,6 +102,7 @@ nav:
       - Python: ev3-python.md
       - ROS: ev3-ros.md
   - FRC:
+    - Setup: frc-setup.md
     - Networking: frc-networking.md
   - Battlesnake: battlesnake.md
   - Robotics: robotics.md
