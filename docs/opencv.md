@@ -8,6 +8,10 @@
 * [OpenCV Getting Started](https://github.com/handee/opencv-gettingstarted/blob/master/1%20Getting%20started%20notebook.ipynb)
 * [LearnOpenCV Tutorials](https://github.com/spmallick/learnopencv)
 
+!!! warning "Important"
+    Use iterm2 to launch scripts to [avoid SIP](https://github.com/opencv/opencv/issues/12763) problems on OSX
+    
+    
 ## Cool Projects
 * [Invisibility Cloak using Color Detection and Segmentation](https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/)
 * [Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)
