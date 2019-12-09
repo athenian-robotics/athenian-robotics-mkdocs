@@ -7,8 +7,14 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FC5FbmsH4fw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## CodeHS Hour of Code Exercises
+## Hour of Code Exercises
+* [RoboGarden Coding](https://robogarden.ca/index/hourofcode/intermediate/932)
+* [CodeMonkey Chatbot](https://app.codemonkey.com/hour-of-code/trivia-chatbot/course#1)
 
+## CodeCombat
+* [Escape the Dungeon!](https://codecombat.com/play/dungeon?hour_of_code=true)
+
+## CodeHS Hour of Code Exercises
 * [Introduction to Programming with Karel the Dog](https://codehs.com/hoc_karel) 
 * [Python Turtle Graphics with Tracy the Turtle](https://codehs.com/hoc_turtle) 
 * [Coding in Python](https://codehs.com/hoc_python) 
@@ -26,20 +32,3 @@
 
 ## CoderZ
 * [Sign up](https://play.gocoderz.com:443/login/#/joinclass/Limahorse) for the class (requires the Chrome browser)
-
-## CodeCombat
-* [Escape the Dungeon!](https://codecombat.com/play/dungeon?hour_of_code=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
