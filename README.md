@@ -18,4 +18,3 @@
 ## Additional Athenian GitHub Organizations  
 * [Athenian Programming](https://github.com/athenian-programming)
 * [Athenian FLL](http://athenian-fll.org)
-
