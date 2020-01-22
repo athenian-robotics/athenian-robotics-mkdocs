@@ -3,3 +3,7 @@ site
 .site
 .DS_Store
 
+.profile
+.settings
+*.tmp
+
