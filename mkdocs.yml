@@ -43,8 +43,6 @@ nav:
     - Miscellaneous: ros-misc.md
     - ROS Master SD Card: ros-master.md
     - Gazebo: gazebo.md
-  - Circuit Playground:
-    - Crickit/CPX and CircuitPython: circuitpython.md
   - Software:
     - Links: software-links.md
     - Software Services: services.md
@@ -87,7 +85,8 @@ nav:
     - roboRIO: roborio.md
     - Intel Euclid: euclid.md
     - NeoTrellis M4: trellis.md
-    - Adafruit Circuit Playground: circuitplayground.md
+    - Circuit Playground: cpx.md
+    - Crickit/CPX and CircuitPython: cricket.md
     - BBC micro:bit: microbit.md
   - Tutorials:
     - vim: vim.md
