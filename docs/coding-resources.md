@@ -16,7 +16,7 @@
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 * [Sign up](http://codehs.com/go/F1782) for ``AP Computer Science in Java`` (Class code: F1782) 
 
-## Programming Enviroments
+## Programming Environments
 * [Code Monkey](https://www.playcodemonkey.com)
 * [CodinGame](https://www.codingame.com)
 
@@ -26,6 +26,3 @@
 ## Programming Competitions
 * [Hacker Rank](https://www.hackerrank.com)
 * [LeetCode](https://leetcode.com)
-
-## Online Lecures
-* [Harvard's CS50](https://ap.cs50.net) (Satisfies AP CS Principles curriculum framework)

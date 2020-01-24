@@ -1,4 +1,4 @@
-# Miscellaneous 
+# Interesting 
 
 ## Interesting Posts
 * [CLI Python Tools](https://opensource.com/article/17/5/4-practical-python-libraries)
@@ -21,7 +21,7 @@
 * [Things I will tell my kids if they become entrepreneurs](http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs)
 * [Formula Pi - Self-driving robot racing with the Raspberry Pi](https://www.kickstarter.com/projects/frobotics/formula-pi-self-driving-robot-racing-with-the-rasp)
 
-## Cool Projectss
+## Cool Projects
 * [Traffic Counting with OpenCV](https://www.hackster.io/deligence-technologies/traffic-counting-system-based-on-opencv-and-python-294059?utm_source=Hackster.io+newsletter&utm_campaign=a8f5b3b101-EMAIL_CAMPAIGN_2017_07_26&utm_medium=email&utm_term=0_6ff81e3e5b-a8f5b3b101-140510773&mc_cid=a8f5b3b101&mc_eid=372e8d3738)
 
 ## Cool Robots

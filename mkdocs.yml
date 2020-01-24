@@ -107,14 +107,14 @@ nav:
   - Robotics: robotics.md
   - CodinGame Tips: codingame.md
   - Hour of Code: hoc.md
-  - Nand To Tetris: nand2tetris.md
+  - Nand2Tetris: nand2tetris.md
   - Education:
     - Robots: education-robots.md
     - Software: education-software.md
     - Teaching: teaching.md
   - Overview: overview.md
   - Advice: advice.md
-  - Miscellaneous: miscellaneous.md
+  - Miscellaneous: interesting.md
 
 theme:
   name: 'material'
