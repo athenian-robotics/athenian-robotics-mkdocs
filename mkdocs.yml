@@ -1,11 +1,3 @@
-site_name: Athenian FRC Robotics
-site_url: https://www.athenian-robotics.org
-site_description: Athenian FRC Robotics Documentation
-site_author: Athenian FRC Robotics Team
-
-repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
-repo_name: 'GitHub Home'
-
 nav:
   - Home: index.md
   - Github Repos:
@@ -109,12 +101,20 @@ nav:
   - Hour of Code: hoc.md
   - Nand2Tetris: nand2tetris.md
   - Education:
-    - Robots: education-robots.md
-    - Software: education-software.md
-    - Teaching: teaching.md
+      - Robots: education-robots.md
+      - Software: education-software.md
+      - Teaching: teaching.md
   - Overview: overview.md
   - Advice: advice.md
   - Miscellaneous: interesting.md
+
+site_name: Athenian FRC Robotics
+site_url: https://www.athenian-robotics.org
+site_description: Athenian FRC Robotics Documentation
+site_author: Athenian FRC Robotics Team
+
+repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
+repo_name: 'GitHub Home'
 
 theme:
   name: 'material'
