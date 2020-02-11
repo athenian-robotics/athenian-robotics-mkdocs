@@ -35,6 +35,7 @@
 * [Guide to Kotlin](https://github.com/Zhuinden/guide-to-kotlin)
 * [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences/)
 * [Utils class in Kotlin](https://medium.com/@nhoxbypass/utils-class-in-kotlin-387a09b8d495)
+* [Kotlin functions are fun](https://proandroiddev.com/kotlin-functions-are-fun-8fdcd4e85a5)
 
 ## Intermediate
 * [Idiomatic Kotlin. Best Practices.](https://blog.philipphauer.de/idiomatic-kotlin-best-practices/)
