@@ -147,7 +147,7 @@
 * [Notes on learning Kotlin coroutines](https://medium.com/@FerRaviola/coroutines-gotchas-494a0e425a24)
 * [Kotlin Coroutines Part 1](https://medium.com/better-programming/kotlin-coroutines-for-beginners-a54d7fedb206)
 * [Kotlin Coroutines Part 2](https://medium.com/better-programming/kotlin-coroutines-for-beginners-4ba32909b509)
-
+* [Channels in Kotlin — part one](https://medium.com/swlh/channels-in-kotlin-part-one-594ba12dcb5a)
 
 ## Detekt
 * [Kotlin: when statement, when expression… oh my! or How we created our custom Detekt rule] (https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
