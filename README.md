@@ -13,7 +13,7 @@
 |:----------------------|:----------------------------------------------|
 | `make website`        | Build the website in site/                    |
 | `make clean`          | Delete site/                                  |
-| `make server`         | Start the live-reloading docs server          |
+| `make serve`         | Start the live-reloading docs server          |
 
 ## Additional Athenian GitHub Organizations  
 * [Athenian Programming](https://github.com/athenian-programming)
