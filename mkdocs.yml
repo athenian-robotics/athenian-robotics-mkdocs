@@ -1,15 +1,18 @@
 nav:
   - Home: index.md
+  - Hours Tracking
+      - Mobile: https://arc852.retool.com/apps/c9fc2380-31bc-11ec-8355-3bb7916a77c6/Mobile%20Hours%20Tracker
+      - Desktop: https://arc852.retool.com/apps/fe393e60-2282-11ec-ab2d-7f805be33322/Hours%20Tracker
   - Github Repos:
-    - FRC Robotics: https://github.com/athenian-robotics
-    - Programming Tutorials: https://github.com/athenian-programming
+      - FRC Robotics: https://github.com/athenian-robotics
+      - Programming Tutorials: https://github.com/athenian-programming
   - Coding Resources: coding-resources.md
   - Languages:
-    - Python:
-      - Learning: learning-python.md
-      - Exercises:
-        - Basics: python-basics.md
-        - Conditionals: python-conditionals.md
+      - Python:
+          - Learning: learning-python.md
+          - Exercises:
+              - Basics: python-basics.md
+              - Conditionals: python-conditionals.md
         - Lists: python-lists.md
         - Dictionaries: python-dictionaries.md
         - Iterations: python-iterations.md
