@@ -13,91 +13,91 @@ nav:
           - Exercises:
               - Basics: python-basics.md
               - Conditionals: python-conditionals.md
-        - Lists: python-lists.md
-        - Dictionaries: python-dictionaries.md
-        - Iterations: python-iterations.md
-        - Functions: python-functions.md
+          - Lists: python-lists.md
+          - Dictionaries: python-dictionaries.md
+          - Iterations: python-iterations.md
+          - Functions: python-functions.md
       - Setup: python-setup.md
       - Posts: python.md
-    - Kotlin: kotlin.md
-    - C: clang.md
+      - Kotlin: kotlin.md
+      - C: clang.md
   - Operating Systems:
-    - OSX: osx-setup.md
-    - Linux:
-      - Raspbian: raspbian.md
-      - Ubuntu: ubuntu.md
-      - Generic Linux: linux.md
-      - Linux Commands:
-        - ssh: ssh.md
-        - apt: apt.md
-    - Unix: unix.md
+      - OSX: osx-setup.md
+      - Linux:
+          - Raspbian: raspbian.md
+          - Ubuntu: ubuntu.md
+          - Generic Linux: linux.md
+          - Linux Commands:
+              - ssh: ssh.md
+              - apt: apt.md
+      - Unix: unix.md
   - ROS:
-    - Installation: ros-installation.md
-    - Commands: ros-commands.md
-    - ROS Serial: ros-serial.md
-    - Miscellaneous: ros-misc.md
-    - ROS Master SD Card: ros-master.md
-    - Gazebo: gazebo.md
+      - Installation: ros-installation.md
+      - Commands: ros-commands.md
+      - ROS Serial: ros-serial.md
+      - Miscellaneous: ros-misc.md
+      - ROS Master SD Card: ros-master.md
+      - Gazebo: gazebo.md
   - Software:
-    - Links: software-links.md
-    - Software Services: services.md
-    - Git: git.md
-    - Jupyter Notebooks: jupyter.md
-    - Jupyter Options: jupyter-options.md
-    - Docker: docker.md
-    - Kubernetes: kubernetes.md
-    - Istio: istio.md
-    - gRPC: grpc.md
-    - OpenCV: opencv.md
-    - GraphQL: graphql.md
-    - Flutter: flutter.md
-    - RoboMaker: robomaker.md
-    - etcd: etcd.md
-    - FAAS: faas.md
-    - PyQt5: pyqt5.md
-    - nginx: nginx.md
-    - Gradle: gradle.md
-    - Prometheus: prometheus.md
-    - Grafana: grafana.md
-    - Markdown: markdown.md
-    - MkDocs: mkdocs.md
-    - Databases: databases.md
-    - Web Services: webservices.md
-    - Web Content: webcontent.md
-    - Plot.ly: plotly.md
-    - XQuartz: xquartz.md
-    - AI Projects: ai-projects.md
+      - Links: software-links.md
+      - Software Services: services.md
+      - Git: git.md
+      - Jupyter Notebooks: jupyter.md
+      - Jupyter Options: jupyter-options.md
+      - Docker: docker.md
+      - Kubernetes: kubernetes.md
+      - Istio: istio.md
+      - gRPC: grpc.md
+      - OpenCV: opencv.md
+      - GraphQL: graphql.md
+      - Flutter: flutter.md
+      - RoboMaker: robomaker.md
+      - etcd: etcd.md
+      - FAAS: faas.md
+      - PyQt5: pyqt5.md
+      - nginx: nginx.md
+      - Gradle: gradle.md
+      - Prometheus: prometheus.md
+      - Grafana: grafana.md
+      - Markdown: markdown.md
+      - MkDocs: mkdocs.md
+      - Databases: databases.md
+      - Web Services: webservices.md
+      - Web Content: webcontent.md
+      - Plot.ly: plotly.md
+      - XQuartz: xquartz.md
+      - AI Projects: ai-projects.md
   - Hardware:
-    - Raspberry Pi Zero W: raspipizero.md
-    - Raspi Hats: raspihats.md
-    - Sensors: sensors.md
-    - SD Cards: sd-cards.md
-    - Arduino: arduino.md
-    - Metro Mini: metro-mini.md
-    - Blinkt: blinkt.md
-    - Logitech Joystick: joystick.md
-    - Nvidia Jetson TX2: jetsontx2.md
-    - roboRIO: roborio.md
-    - Intel Euclid: euclid.md
-    - NeoTrellis M4: trellis.md
-    - Circuit Playground: cpx.md
-    - Crickit/CPX and CircuitPython: cricket.md
-    - BBC micro:bit: microbit.md
+      - Raspberry Pi Zero W: raspipizero.md
+      - Raspi Hats: raspihats.md
+      - Sensors: sensors.md
+      - SD Cards: sd-cards.md
+      - Arduino: arduino.md
+      - Metro Mini: metro-mini.md
+      - Blinkt: blinkt.md
+      - Logitech Joystick: joystick.md
+      - Nvidia Jetson TX2: jetsontx2.md
+      - roboRIO: roborio.md
+      - Intel Euclid: euclid.md
+      - NeoTrellis M4: trellis.md
+      - Circuit Playground: cpx.md
+      - Crickit/CPX and CircuitPython: cricket.md
+      - BBC micro:bit: microbit.md
   - Tutorials:
-    - vim: vim.md
-    - Shell: shell.md
-    - Machine Learning: ml.md
+      - vim: vim.md
+      - Shell: shell.md
+      - Machine Learning: ml.md
   - Robots:
-    - Magni: magni.md
-    - TurtleBot3: turtlebot3.md
-    - GoPiGo: gopigo.md
-    - EV3:
-      - Admin: ev3-admin.md
-      - Python: ev3-python.md
-      - ROS: ev3-ros.md
+      - Magni: magni.md
+      - TurtleBot3: turtlebot3.md
+      - GoPiGo: gopigo.md
+      - EV3:
+          - Admin: ev3-admin.md
+          - Python: ev3-python.md
+          - ROS: ev3-ros.md
   - FRC:
-    - Notes: frc-notes.md
-    - Networking: frc-networking.md
+      - Notes: frc-notes.md
+      - Networking: frc-networking.md
   - Battlesnake: battlesnake.md
   - Robotics: robotics.md
   - CodinGame Tips: codingame.md
@@ -159,5 +159,5 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-google_analytics: ['UA-90285378-1', 'auto']
+google_analytics: [ 'UA-90285378-1', 'auto' ]
 
