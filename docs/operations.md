@@ -18,7 +18,7 @@ We are tracking start/end times to assist with contact tracing efforts. So pleas
 
 The app does not validate a couple bad input combinations:
 
-1) End time before Start time.
-2) Overlapping time spans. 
+1. End time before Start time.
+2. Overlapping time spans. 
 
 
