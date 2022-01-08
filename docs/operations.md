@@ -6,9 +6,9 @@ To get started:
 
 1. [Create a Retool user account here](https://login.retool.com/auth/signup).
    **DO NOT fill in your name and email information!!!**
-   Instead, click on "Sign in with Google" and make sure you use your *athenian.org* email address. You can ignore the
-   next page and go to step #2.
-2. Go to the [desktop](https://arc852.retool.com/apps/Hours%20Tracker%20App/User%20Registration)
+   Instead, click on "Sign in with Google" and make sure you use your *athenian.org* email address.
+2. When prompted to "Select a team to join" select **pambrose@athenian.org**. You can ignore the resulting page.
+3. Go to the [desktop](https://arc852.retool.com/apps/Hours%20Tracker%20App/User%20Registration)
    version of the app and register yourself under "User Registration." Registering is a one-time exercise.
 
 Once registered, you can enter your hours with the desktop or mobile versions of the app:
