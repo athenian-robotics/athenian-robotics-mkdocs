@@ -1,6 +1,6 @@
 nav:
   - Home: index.md
-  - Operations: operations.md
+  - Hours Tracking: operations.md
   - Github Repos:
       - FRC Robotics: https://github.com/athenian-robotics
       - Programming Tutorials: https://github.com/athenian-programming
