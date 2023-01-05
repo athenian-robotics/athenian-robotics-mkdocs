@@ -4,7 +4,7 @@
 
 To get started:
 
-1. Keep this page open in your browser while executing the next 3 steps. This registration is a one-time process.
+1. Keep this page open in your browser while executing the next 3 steps. The registration steps are a one-time process.
 2. Create a Retool user account [here](https://login.retool.com/auth/signup).
    **DO NOT fill in your name and email information!!!**
    Instead, click on "Sign in with Google" and make sure you use your *athenian.org* email address.
