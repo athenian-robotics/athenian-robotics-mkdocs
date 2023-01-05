@@ -17,8 +17,6 @@ Once registered, you can enter your hours with the desktop or mobile versions of
 * [Desktop](https://arc852.retool.com/apps/Hours%20Tracker%20App/Hours%20Tracker)
 * [Mobile](https://arc852.retool.com/apps/Hours%20Tracker%20App/Mobile%20Hours%20Tracker)
 
-We are tracking start/end times to assist with contact tracing efforts. So please enter accurate times.
-
 The app does not validate a couple bad input combinations:
 
 1. End time before Start time.
