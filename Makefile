@@ -1,5 +1,8 @@
 default: website
 
+upgrade:
+	pip install -r requirements.txt
+
 website:
 	mkdocs build --clean
 

@@ -109,10 +109,10 @@ nav:
   - Advice: advice.md
   - Miscellaneous: interesting.md
 
-site_name: Athenian FRC Robotics
+site_name: Athenian Acropolis Robotics
 site_url: https://www.athenian-robotics.org
-site_description: Athenian FRC Robotics Documentation
-site_author: Athenian FRC Robotics Team
+site_description: Athenian Acropolis Robotics Documentation
+site_author: Athenian Acropolis Robotics Team
 
 repo_url: https://github.com/athenian-robotics/athenian-robotics-mkdocs
 repo_name: 'GitHub Home'
