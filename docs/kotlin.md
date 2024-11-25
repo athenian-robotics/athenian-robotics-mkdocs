@@ -95,6 +95,7 @@
 * [The Kotlin Type Hierarchy From Top to Bottom](https://speakerdeck.com/npryce/the-kotlin-type-hierarchy-from-top-to-bottom)
 * [Kotlin Explained: Property delegation](https://medium.com/kotlin-arsenal/kotlin-explained-property-delegation-c2d92ff9d7fc)
 * [Singleton class in Kotlin](https://medium.com/@abhilashmyworld/singleton-class-in-kotlin-c3398e7fd76b)
+* [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
 
 ## Run, with, let, also and apply
 * [The difference between ‘let’, ‘apply’, ‘with’, ‘run’ and ‘also’](https://medium.com/@tpolansk/the-difference-between-kotlins-functions-let-apply-with-run-and-else-ca51a4c696b8)
