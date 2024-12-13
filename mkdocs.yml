@@ -76,7 +76,7 @@ nav:
       - Logitech Joystick: joystick.md
       - Nvidia Jetson TX2: jetsontx2.md
       - roboRIO: roborio.md
-      - Intel Euclid: euclid.md
+      #      - Intel Euclid: euclid.md
       - NeoTrellis M4: trellis.md
       - Circuit Playground: cpx.md
       - Crickit/CPX and CircuitPython: cricket.md
