@@ -7,6 +7,9 @@
 4. Install the [Pygments](http://pygments.org/) syntax highlighter.
 5. Install the [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) Markdown extensions.
 
+```commandline
+pipx install mkdocs mkdocs-material Pygments pymdown-extensions
+```
 
 ## Makefile Targets
 | Command               | Description                                   |
