@@ -8,14 +8,7 @@ nav:
   - Languages:
       - Python:
           - Learning: learning-python.md
-          - Exercises:
-              - Basics: python-basics.md
-              - Conditionals: python-conditionals.md
-          - Lists: python-lists.md
-          - Dictionaries: python-dictionaries.md
-          - Iterations: python-iterations.md
-          - Functions: python-functions.md
-      - Setup: python-setup.md
+          - Setup: python-setup.md
       - Posts: python.md
       - Kotlin: kotlin.md
       - C: clang.md

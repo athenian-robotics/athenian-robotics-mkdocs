@@ -4,7 +4,7 @@
 * [Blockly](https://developers.google.com/blockly/)
 * [Microsoft Makecode](https://www.microsoft.com/en-us/makecode)
 * [BBC micro:bit](https://microbit.org) - [Video](https://www.youtube.com/watch?v=Wuza5WXiMkc)
-* [Circuit Playground Express](https://www.adafruit.com/product/3333) - [Video](https://www.youtube.com/watch?v=4lGRgO40UhM) - [Light Sweep Example](../light-sweep/)
+* [Circuit Playground Express](https://www.adafruit.com/product/3333) - [Video](https://www.youtube.com/watch?v=4lGRgO40UhM) - [Light Sweep Example](light-sweep.md/)
 * [CoderZ](http://www.GoCoderZ.com/) - [Video](https://www.youtube.com/watch?v=au3qUudqBo8)
 * [Scratch](https://scratch.mit.edu), [CS First](https://csfirst.withgoogle.com) and [CS First Curriculum](https://csfirst.withgoogle.com/c/cs-first/en/curriculum.html)
 * [Snap](https://snap.berkeley.edu)
@@ -25,12 +25,11 @@
 ## Learning Python
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 * [Code for Teachers](https://www.youtube.com/playlist?list=PLzP_6l8bQEa9Q-ARfEFsTuXk8GMHkKStD)
-* [Coding Exercises](../python-basics)
 
 
 ## Support
 * [Github](https://github.com)
-* [Markdown](../markdown)
+* [Markdown](markdown.md)
 
 
 ## Python Practice Exercises
