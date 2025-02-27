@@ -3,12 +3,6 @@
 ## CodeHS Classes
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 
-## repl.it Classroom Sign Ups
-* [Athenian Python Basics](https://repl.it/classroom/invite/YHN4GaI)  
-* [Athenian Turtle Graphics](https://repl.it/classroom/invite/YMcqmdc)  
-* [Auto-Graded Course with Solutions](https://repl.it/classroom/invite/YEj03HB)  
-* [Bugsmashers and Functions](https://repl.it/classroom/invite/YEiX46y)  
-
 ## Python Tutorials
 * [Learn Python Tutorial](https://www.learnpython.org)
 * [Google Python Tutorial](https://developers.google.com/edu/python/)
@@ -29,7 +23,6 @@
 * [Python Tutor](http://pythontutor.com/visualize.html#mode=edit)
 
 ## Online Python Shells
-* [repl.it](http://www.repl.it)
 * [PythonAnywhere](https://www.pythonanywhere.com)
 
 ## Python IDEs

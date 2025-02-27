@@ -25,11 +25,6 @@
 ## Learning Python
 * [Sign up](http://codehs.com/go/B7559) for ``Intro to Python`` (Class code: B7559)
 * [Code for Teachers](https://www.youtube.com/playlist?list=PLzP_6l8bQEa9Q-ARfEFsTuXk8GMHkKStD)
-* [repl.it](https://repl.it)
-    * REPL
-    * Multiplayer Mode
-    * Web Servers
-    * Python 
 * [Coding Exercises](../python-basics)
 
 
