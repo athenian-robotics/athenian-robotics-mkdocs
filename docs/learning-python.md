@@ -29,9 +29,6 @@
 * [PyCharm](https://www.jetbrains.com/pycharm/download/)
 * [AWS Cloud 9](https://aws.amazon.com/cloud9/)
 
-## Python Jupyter Notebooks
-* [Python Basics](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)
-
 ## Programming Competitions
 * [CodinGame](https://www.codingame.com)
 * [Hacker Rank](https://www.hackerrank.com)
